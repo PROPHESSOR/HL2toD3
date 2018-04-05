@@ -34,17 +34,10 @@ struct dplane_t {
     int     type;      // plane axis identifier
 };
 
-int main() {
-    cout << COLOR_YELLOW << "[HL2toD3] Map parser" << endl;
+static dheader_t header;
+
+void header_test() {
     cout << COLOR_YELLOW << "Starting test..." << endl;
-    cout << COLOR_RESET;
-
-    dheader_t header;
-
-    ifstream infile("testdata/background01.bsp", ifstream::binary | ifstream::in);
-        infile.read((char *)&header, sizeof(header));
-    infile.close();
-
     cout << COLOR_CYAN;
 
     cout << "header.ident:\t\t"       << header.ident       << endl;
@@ -73,6 +66,16 @@ int main() {
 
 
     cout << COLOR_RESET;
+}
+
+int main() {
+    cout << COLOR_YELLOW << "[HL2toD3] Map parser" << COLOR_RESET << endl;
+
+    ifstream infile("testdata/background01.bsp", ifstream::binary | ifstream::in);
+        infile.read((char *)&header, sizeof(header));
+    infile.close();
+
+    header_test();
 
     cout << COLOR_YELLOW << "Exit!" << COLOR_RESET << endl;
 
