@@ -29,9 +29,9 @@ struct Vector {
 };
 
 struct dplane_t {
-    Vector normal; // normal vector
-    float dist;    // distance from origin
-    int type;      // plane axis identifier
+    Vector  normal; // normal vector
+    float   dist;    // distance from origin
+    int     type;      // plane axis identifier
 };
 
 int main() {
@@ -42,7 +42,7 @@ int main() {
     dheader_t header;
 
     ifstream infile("testdata/background01.bsp", ifstream::binary | ifstream::in);
-    /*  */ infile.read((char *)&header, sizeof(header));
+        infile.read((char *)&header, sizeof(header));
     infile.close();
 
     cout << COLOR_CYAN;
@@ -51,15 +51,24 @@ int main() {
     cout << "header.version:\t\t"     << header.version     << endl;
     cout << "header.mapRevision:\t"   << header.mapRevision << endl;
 
-    cout << "header.lumps[]:"                              << endl;
+    cout << "header.lumps[]:"                               << endl;
     
     for(short i = 0; i < HEADER_LUMPS; i++) {
-        if(header.lumps[i].fileofs == 0 && header.lumps[i].filelen == 0) continue; // TODO: May be break?
+        lump_t lump = header.lumps[i];
 
-        cout << "\t\t\t" << i << ":" << endl;
-        cout << "\t\t\t\tfileofs:\t\t" << header.lumps[i].fileofs << endl;
-        cout << "\t\t\t\tfilelen:\t\t" << header.lumps[i].filelen << endl;
-        cout << "\t\t\t\tversion:\t\t" << header.lumps[i].version << endl;
+        if(lump.fileofs == 0 && lump.filelen == 0) continue; // TODO: May be break?
+
+        cout << "\t\t" << i << ":" << endl;
+        cout << "\t\t\tfileofs:\t\t" << lump.fileofs << endl;
+        cout << "\t\t\tfilelen:\t\t" << lump.filelen << endl;
+        cout << "\t\t\tversion:\t\t" << lump.version << endl;
+        cout << "\t\t\tfourCC[]:\t\t"                           << endl;
+
+        for(short j = 0; j < 4; j++) {
+            if(lump.fourCC[j] == 0) continue; // TODO: May be break?
+
+            cout << "\t\t\t\t" << j << ":\t\t" << lump.fourCC[j] << "(" << (int) lump.fourCC[j] << ")" << endl;
+        }
     }
 
 
