@@ -1,0 +1,9513 @@
+Version 2
+// entity 0
+{
+"classname" "worldspawn"
+// primitive 1
+{
+	// side 2
+	brushDef3
+	{
+	}
+	// side 3
+	brushDef3
+	{
+	}
+	// side 4
+	brushDef3
+	{
+	}
+	// side 5
+	brushDef3
+	{
+	}
+	// side 6
+	brushDef3
+	{
+	}
+	// side 7
+	brushDef3
+	{
+	}
+// primitive 8
+{
+	// side 9
+	brushDef3
+	{
+	}
+	// side 10
+	brushDef3
+	{
+	}
+	// side 11
+	brushDef3
+	{
+	}
+	// side 12
+	brushDef3
+	{
+	}
+	// side 13
+	brushDef3
+	{
+	}
+	// side 14
+	brushDef3
+	{
+	}
+// primitive 15
+{
+	// side 16
+	brushDef3
+	{
+	}
+	// side 17
+	brushDef3
+	{
+	}
+	// side 18
+	brushDef3
+	{
+	}
+	// side 19
+	brushDef3
+	{
+	}
+	// side 20
+	brushDef3
+	{
+	}
+	// side 21
+	brushDef3
+	{
+	}
+// primitive 22
+{
+	// side 23
+	brushDef3
+	{
+	}
+	// side 24
+	brushDef3
+	{
+	}
+	// side 25
+	brushDef3
+	{
+	}
+	// side 26
+	brushDef3
+	{
+	}
+	// side 27
+	brushDef3
+	{
+	}
+	// side 28
+	brushDef3
+	{
+	}
+// primitive 29
+{
+	// side 30
+	brushDef3
+	{
+	}
+	// side 31
+	brushDef3
+	{
+	}
+	// side 32
+	brushDef3
+	{
+	}
+	// side 33
+	brushDef3
+	{
+	}
+	// side 34
+	brushDef3
+	{
+	}
+	// side 35
+	brushDef3
+	{
+	}
+// primitive 36
+{
+	// side 37
+	brushDef3
+	{
+	}
+	// side 38
+	brushDef3
+	{
+	}
+	// side 39
+	brushDef3
+	{
+	}
+	// side 40
+	brushDef3
+	{
+	}
+	// side 41
+	brushDef3
+	{
+	}
+	// side 42
+	brushDef3
+	{
+	}
+// primitive 43
+{
+	// side 44
+	brushDef3
+	{
+	}
+	// side 45
+	brushDef3
+	{
+	}
+	// side 46
+	brushDef3
+	{
+	}
+	// side 47
+	brushDef3
+	{
+	}
+	// side 48
+	brushDef3
+	{
+	}
+	// side 49
+	brushDef3
+	{
+	}
+// primitive 50
+{
+	// side 51
+	brushDef3
+	{
+	}
+	// side 52
+	brushDef3
+	{
+	}
+	// side 53
+	brushDef3
+	{
+	}
+	// side 54
+	brushDef3
+	{
+	}
+	// side 55
+	brushDef3
+	{
+	}
+	// side 56
+	brushDef3
+	{
+	}
+// primitive 57
+{
+	// side 58
+	brushDef3
+	{
+	}
+	// side 59
+	brushDef3
+	{
+	}
+	// side 60
+	brushDef3
+	{
+	}
+	// side 61
+	brushDef3
+	{
+	}
+	// side 62
+	brushDef3
+	{
+	}
+	// side 63
+	brushDef3
+	{
+	}
+// primitive 64
+{
+	// side 65
+	brushDef3
+	{
+	}
+	// side 66
+	brushDef3
+	{
+	}
+	// side 67
+	brushDef3
+	{
+	}
+	// side 68
+	brushDef3
+	{
+	}
+	// side 69
+	brushDef3
+	{
+	}
+	// side 70
+	brushDef3
+	{
+	}
+// primitive 71
+{
+	// side 72
+	brushDef3
+	{
+	}
+	// side 73
+	brushDef3
+	{
+	}
+	// side 74
+	brushDef3
+	{
+	}
+	// side 75
+	brushDef3
+	{
+	}
+	// side 76
+	brushDef3
+	{
+	}
+	// side 77
+	brushDef3
+	{
+	}
+// primitive 78
+{
+	// side 79
+	brushDef3
+	{
+	}
+	// side 80
+	brushDef3
+	{
+	}
+	// side 81
+	brushDef3
+	{
+	}
+	// side 82
+	brushDef3
+	{
+	}
+	// side 83
+	brushDef3
+	{
+	}
+	// side 84
+	brushDef3
+	{
+	}
+// primitive 85
+{
+	// side 86
+	brushDef3
+	{
+	}
+	// side 87
+	brushDef3
+	{
+	}
+	// side 88
+	brushDef3
+	{
+	}
+	// side 89
+	brushDef3
+	{
+	}
+	// side 90
+	brushDef3
+	{
+	}
+	// side 91
+	brushDef3
+	{
+	}
+// primitive 92
+{
+	// side 93
+	brushDef3
+	{
+	}
+	// side 94
+	brushDef3
+	{
+	}
+	// side 95
+	brushDef3
+	{
+	}
+	// side 96
+	brushDef3
+	{
+	}
+	// side 97
+	brushDef3
+	{
+	}
+	// side 98
+	brushDef3
+	{
+	}
+// primitive 99
+{
+	// side 100
+	brushDef3
+	{
+	}
+	// side 101
+	brushDef3
+	{
+	}
+	// side 102
+	brushDef3
+	{
+	}
+	// side 103
+	brushDef3
+	{
+	}
+	// side 104
+	brushDef3
+	{
+	}
+	// side 105
+	brushDef3
+	{
+	}
+// primitive 106
+{
+	// side 107
+	brushDef3
+	{
+	}
+	// side 108
+	brushDef3
+	{
+	}
+	// side 109
+	brushDef3
+	{
+	}
+	// side 110
+	brushDef3
+	{
+	}
+	// side 111
+	brushDef3
+	{
+	}
+	// side 112
+	brushDef3
+	{
+	}
+// primitive 113
+{
+	// side 114
+	brushDef3
+	{
+	}
+	// side 115
+	brushDef3
+	{
+	}
+	// side 116
+	brushDef3
+	{
+	}
+	// side 117
+	brushDef3
+	{
+	}
+	// side 118
+	brushDef3
+	{
+	}
+	// side 119
+	brushDef3
+	{
+	}
+// primitive 120
+{
+	// side 121
+	brushDef3
+	{
+	}
+	// side 122
+	brushDef3
+	{
+	}
+	// side 123
+	brushDef3
+	{
+	}
+	// side 124
+	brushDef3
+	{
+	}
+	// side 125
+	brushDef3
+	{
+	}
+	// side 126
+	brushDef3
+	{
+	}
+// primitive 127
+{
+	// side 128
+	brushDef3
+	{
+	}
+	// side 129
+	brushDef3
+	{
+	}
+	// side 130
+	brushDef3
+	{
+	}
+	// side 131
+	brushDef3
+	{
+	}
+	// side 132
+	brushDef3
+	{
+	}
+	// side 133
+	brushDef3
+	{
+	}
+// primitive 134
+{
+	// side 135
+	brushDef3
+	{
+	}
+	// side 136
+	brushDef3
+	{
+	}
+	// side 137
+	brushDef3
+	{
+	}
+	// side 138
+	brushDef3
+	{
+	}
+	// side 139
+	brushDef3
+	{
+	}
+	// side 140
+	brushDef3
+	{
+	}
+// primitive 141
+{
+	// side 142
+	brushDef3
+	{
+	}
+	// side 143
+	brushDef3
+	{
+	}
+	// side 144
+	brushDef3
+	{
+	}
+	// side 145
+	brushDef3
+	{
+	}
+	// side 146
+	brushDef3
+	{
+	}
+	// side 147
+	brushDef3
+	{
+	}
+// primitive 148
+{
+	// side 149
+	brushDef3
+	{
+	}
+	// side 150
+	brushDef3
+	{
+	}
+	// side 151
+	brushDef3
+	{
+	}
+	// side 152
+	brushDef3
+	{
+	}
+	// side 153
+	brushDef3
+	{
+	}
+	// side 154
+	brushDef3
+	{
+	}
+// primitive 155
+{
+	// side 156
+	brushDef3
+	{
+	}
+	// side 157
+	brushDef3
+	{
+	}
+	// side 158
+	brushDef3
+	{
+	}
+	// side 159
+	brushDef3
+	{
+	}
+	// side 160
+	brushDef3
+	{
+	}
+	// side 161
+	brushDef3
+	{
+	}
+// primitive 162
+{
+	// side 163
+	brushDef3
+	{
+	}
+	// side 164
+	brushDef3
+	{
+	}
+	// side 165
+	brushDef3
+	{
+	}
+	// side 166
+	brushDef3
+	{
+	}
+	// side 167
+	brushDef3
+	{
+	}
+	// side 168
+	brushDef3
+	{
+	}
+// primitive 169
+{
+	// side 170
+	brushDef3
+	{
+	}
+	// side 171
+	brushDef3
+	{
+	}
+	// side 172
+	brushDef3
+	{
+	}
+	// side 173
+	brushDef3
+	{
+	}
+	// side 174
+	brushDef3
+	{
+	}
+	// side 175
+	brushDef3
+	{
+	}
+// primitive 176
+{
+	// side 177
+	brushDef3
+	{
+	}
+	// side 178
+	brushDef3
+	{
+	}
+	// side 179
+	brushDef3
+	{
+	}
+	// side 180
+	brushDef3
+	{
+	}
+	// side 181
+	brushDef3
+	{
+	}
+	// side 182
+	brushDef3
+	{
+	}
+// primitive 183
+{
+	// side 184
+	brushDef3
+	{
+	}
+	// side 185
+	brushDef3
+	{
+	}
+	// side 186
+	brushDef3
+	{
+	}
+	// side 187
+	brushDef3
+	{
+	}
+	// side 188
+	brushDef3
+	{
+	}
+	// side 189
+	brushDef3
+	{
+	}
+// primitive 190
+{
+	// side 191
+	brushDef3
+	{
+	}
+	// side 192
+	brushDef3
+	{
+	}
+	// side 193
+	brushDef3
+	{
+	}
+	// side 194
+	brushDef3
+	{
+	}
+	// side 195
+	brushDef3
+	{
+	}
+	// side 196
+	brushDef3
+	{
+	}
+// primitive 197
+{
+	// side 198
+	brushDef3
+	{
+	}
+	// side 199
+	brushDef3
+	{
+	}
+	// side 200
+	brushDef3
+	{
+	}
+	// side 201
+	brushDef3
+	{
+	}
+	// side 202
+	brushDef3
+	{
+	}
+	// side 203
+	brushDef3
+	{
+	}
+// primitive 204
+{
+	// side 205
+	brushDef3
+	{
+	}
+	// side 206
+	brushDef3
+	{
+	}
+	// side 207
+	brushDef3
+	{
+	}
+	// side 208
+	brushDef3
+	{
+	}
+	// side 209
+	brushDef3
+	{
+	}
+	// side 210
+	brushDef3
+	{
+	}
+// primitive 211
+{
+	// side 212
+	brushDef3
+	{
+	}
+	// side 213
+	brushDef3
+	{
+	}
+	// side 214
+	brushDef3
+	{
+	}
+	// side 215
+	brushDef3
+	{
+	}
+	// side 216
+	brushDef3
+	{
+	}
+	// side 217
+	brushDef3
+	{
+	}
+// primitive 218
+{
+	// side 219
+	brushDef3
+	{
+	}
+	// side 220
+	brushDef3
+	{
+	}
+	// side 221
+	brushDef3
+	{
+	}
+	// side 222
+	brushDef3
+	{
+	}
+	// side 223
+	brushDef3
+	{
+	}
+	// side 224
+	brushDef3
+	{
+	}
+	// side 225
+	brushDef3
+	{
+	}
+	// side 226
+	brushDef3
+	{
+	}
+	// side 227
+	brushDef3
+	{
+	}
+	// side 228
+	brushDef3
+	{
+	}
+	// side 229
+	brushDef3
+	{
+	}
+	// side 230
+	brushDef3
+	{
+	}
+// primitive 231
+{
+	// side 232
+	brushDef3
+	{
+	}
+	// side 233
+	brushDef3
+	{
+	}
+	// side 234
+	brushDef3
+	{
+	}
+	// side 235
+	brushDef3
+	{
+	}
+	// side 236
+	brushDef3
+	{
+	}
+	// side 237
+	brushDef3
+	{
+	}
+	// side 238
+	brushDef3
+	{
+	}
+	// side 239
+	brushDef3
+	{
+	}
+	// side 240
+	brushDef3
+	{
+	}
+	// side 241
+	brushDef3
+	{
+	}
+	// side 242
+	brushDef3
+	{
+	}
+	// side 243
+	brushDef3
+	{
+	}
+// primitive 244
+{
+	// side 245
+	brushDef3
+	{
+	}
+	// side 246
+	brushDef3
+	{
+	}
+	// side 247
+	brushDef3
+	{
+	}
+	// side 248
+	brushDef3
+	{
+	}
+	// side 249
+	brushDef3
+	{
+	}
+	// side 250
+	brushDef3
+	{
+	}
+	// side 251
+	brushDef3
+	{
+	}
+	// side 252
+	brushDef3
+	{
+	}
+	// side 253
+	brushDef3
+	{
+	}
+	// side 254
+	brushDef3
+	{
+	}
+	// side 255
+	brushDef3
+	{
+	}
+	// side 256
+	brushDef3
+	{
+	}
+// primitive 257
+{
+	// side 258
+	brushDef3
+	{
+	}
+	// side 259
+	brushDef3
+	{
+	}
+	// side 260
+	brushDef3
+	{
+	}
+	// side 261
+	brushDef3
+	{
+	}
+	// side 262
+	brushDef3
+	{
+	}
+	// side 263
+	brushDef3
+	{
+	}
+	// side 264
+	brushDef3
+	{
+	}
+	// side 265
+	brushDef3
+	{
+	}
+	// side 266
+	brushDef3
+	{
+	}
+	// side 267
+	brushDef3
+	{
+	}
+	// side 268
+	brushDef3
+	{
+	}
+	// side 269
+	brushDef3
+	{
+	}
+// primitive 270
+{
+	// side 271
+	brushDef3
+	{
+	}
+	// side 272
+	brushDef3
+	{
+	}
+	// side 273
+	brushDef3
+	{
+	}
+	// side 274
+	brushDef3
+	{
+	}
+	// side 275
+	brushDef3
+	{
+	}
+	// side 276
+	brushDef3
+	{
+	}
+// primitive 277
+{
+	// side 278
+	brushDef3
+	{
+	}
+	// side 279
+	brushDef3
+	{
+	}
+	// side 280
+	brushDef3
+	{
+	}
+	// side 281
+	brushDef3
+	{
+	}
+	// side 282
+	brushDef3
+	{
+	}
+	// side 283
+	brushDef3
+	{
+	}
+// primitive 284
+{
+	// side 285
+	brushDef3
+	{
+	}
+	// side 286
+	brushDef3
+	{
+	}
+	// side 287
+	brushDef3
+	{
+	}
+	// side 288
+	brushDef3
+	{
+	}
+	// side 289
+	brushDef3
+	{
+	}
+	// side 290
+	brushDef3
+	{
+	}
+// primitive 291
+{
+	// side 292
+	brushDef3
+	{
+	}
+	// side 293
+	brushDef3
+	{
+	}
+	// side 294
+	brushDef3
+	{
+	}
+	// side 295
+	brushDef3
+	{
+	}
+	// side 296
+	brushDef3
+	{
+	}
+	// side 297
+	brushDef3
+	{
+	}
+// primitive 298
+{
+	// side 299
+	brushDef3
+	{
+	}
+	// side 300
+	brushDef3
+	{
+	}
+	// side 301
+	brushDef3
+	{
+	}
+	// side 302
+	brushDef3
+	{
+	}
+	// side 303
+	brushDef3
+	{
+	}
+	// side 304
+	brushDef3
+	{
+	}
+// primitive 305
+{
+	// side 306
+	brushDef3
+	{
+	}
+	// side 307
+	brushDef3
+	{
+	}
+	// side 308
+	brushDef3
+	{
+	}
+	// side 309
+	brushDef3
+	{
+	}
+	// side 310
+	brushDef3
+	{
+	}
+	// side 311
+	brushDef3
+	{
+	}
+// primitive 312
+{
+	// side 313
+	brushDef3
+	{
+	}
+	// side 314
+	brushDef3
+	{
+	}
+	// side 315
+	brushDef3
+	{
+	}
+	// side 316
+	brushDef3
+	{
+	}
+	// side 317
+	brushDef3
+	{
+	}
+	// side 318
+	brushDef3
+	{
+	}
+// primitive 319
+{
+	// side 320
+	brushDef3
+	{
+	}
+	// side 321
+	brushDef3
+	{
+	}
+	// side 322
+	brushDef3
+	{
+	}
+	// side 323
+	brushDef3
+	{
+	}
+	// side 324
+	brushDef3
+	{
+	}
+	// side 325
+	brushDef3
+	{
+	}
+// primitive 326
+{
+	// side 327
+	brushDef3
+	{
+	}
+	// side 328
+	brushDef3
+	{
+	}
+	// side 329
+	brushDef3
+	{
+	}
+	// side 330
+	brushDef3
+	{
+	}
+	// side 331
+	brushDef3
+	{
+	}
+	// side 332
+	brushDef3
+	{
+	}
+// primitive 333
+{
+	// side 334
+	brushDef3
+	{
+	}
+	// side 335
+	brushDef3
+	{
+	}
+	// side 336
+	brushDef3
+	{
+	}
+	// side 337
+	brushDef3
+	{
+	}
+	// side 338
+	brushDef3
+	{
+	}
+	// side 339
+	brushDef3
+	{
+	}
+// primitive 340
+{
+	// side 341
+	brushDef3
+	{
+	}
+	// side 342
+	brushDef3
+	{
+	}
+	// side 343
+	brushDef3
+	{
+	}
+	// side 344
+	brushDef3
+	{
+	}
+	// side 345
+	brushDef3
+	{
+	}
+	// side 346
+	brushDef3
+	{
+	}
+// primitive 347
+{
+	// side 348
+	brushDef3
+	{
+	}
+	// side 349
+	brushDef3
+	{
+	}
+	// side 350
+	brushDef3
+	{
+	}
+	// side 351
+	brushDef3
+	{
+	}
+	// side 352
+	brushDef3
+	{
+	}
+	// side 353
+	brushDef3
+	{
+	}
+// primitive 354
+{
+	// side 355
+	brushDef3
+	{
+	}
+	// side 356
+	brushDef3
+	{
+	}
+	// side 357
+	brushDef3
+	{
+	}
+	// side 358
+	brushDef3
+	{
+	}
+	// side 359
+	brushDef3
+	{
+	}
+	// side 360
+	brushDef3
+	{
+	}
+// primitive 361
+{
+	// side 362
+	brushDef3
+	{
+	}
+	// side 363
+	brushDef3
+	{
+	}
+	// side 364
+	brushDef3
+	{
+	}
+	// side 365
+	brushDef3
+	{
+	}
+	// side 366
+	brushDef3
+	{
+	}
+	// side 367
+	brushDef3
+	{
+	}
+// primitive 368
+{
+	// side 369
+	brushDef3
+	{
+	}
+	// side 370
+	brushDef3
+	{
+	}
+	// side 371
+	brushDef3
+	{
+	}
+	// side 372
+	brushDef3
+	{
+	}
+	// side 373
+	brushDef3
+	{
+	}
+	// side 374
+	brushDef3
+	{
+	}
+// primitive 375
+{
+	// side 376
+	brushDef3
+	{
+	}
+	// side 377
+	brushDef3
+	{
+	}
+	// side 378
+	brushDef3
+	{
+	}
+	// side 379
+	brushDef3
+	{
+	}
+	// side 380
+	brushDef3
+	{
+	}
+	// side 381
+	brushDef3
+	{
+	}
+// primitive 382
+{
+	// side 383
+	brushDef3
+	{
+	}
+	// side 384
+	brushDef3
+	{
+	}
+	// side 385
+	brushDef3
+	{
+	}
+	// side 386
+	brushDef3
+	{
+	}
+	// side 387
+	brushDef3
+	{
+	}
+	// side 388
+	brushDef3
+	{
+	}
+// primitive 389
+{
+	// side 390
+	brushDef3
+	{
+	}
+	// side 391
+	brushDef3
+	{
+	}
+	// side 392
+	brushDef3
+	{
+	}
+	// side 393
+	brushDef3
+	{
+	}
+	// side 394
+	brushDef3
+	{
+	}
+	// side 395
+	brushDef3
+	{
+	}
+// primitive 396
+{
+	// side 397
+	brushDef3
+	{
+	}
+	// side 398
+	brushDef3
+	{
+	}
+	// side 399
+	brushDef3
+	{
+	}
+	// side 400
+	brushDef3
+	{
+	}
+	// side 401
+	brushDef3
+	{
+	}
+	// side 402
+	brushDef3
+	{
+	}
+// primitive 403
+{
+	// side 404
+	brushDef3
+	{
+	}
+	// side 405
+	brushDef3
+	{
+	}
+	// side 406
+	brushDef3
+	{
+	}
+	// side 407
+	brushDef3
+	{
+	}
+	// side 408
+	brushDef3
+	{
+	}
+	// side 409
+	brushDef3
+	{
+	}
+// primitive 410
+{
+	// side 411
+	brushDef3
+	{
+	}
+	// side 412
+	brushDef3
+	{
+	}
+	// side 413
+	brushDef3
+	{
+	}
+	// side 414
+	brushDef3
+	{
+	}
+	// side 415
+	brushDef3
+	{
+	}
+	// side 416
+	brushDef3
+	{
+	}
+// primitive 417
+{
+	// side 418
+	brushDef3
+	{
+	}
+	// side 419
+	brushDef3
+	{
+	}
+	// side 420
+	brushDef3
+	{
+	}
+	// side 421
+	brushDef3
+	{
+	}
+	// side 422
+	brushDef3
+	{
+	}
+	// side 423
+	brushDef3
+	{
+	}
+// primitive 424
+{
+	// side 425
+	brushDef3
+	{
+	}
+	// side 426
+	brushDef3
+	{
+	}
+	// side 427
+	brushDef3
+	{
+	}
+	// side 428
+	brushDef3
+	{
+	}
+	// side 429
+	brushDef3
+	{
+	}
+	// side 430
+	brushDef3
+	{
+	}
+// primitive 431
+{
+	// side 432
+	brushDef3
+	{
+	}
+	// side 433
+	brushDef3
+	{
+	}
+	// side 434
+	brushDef3
+	{
+	}
+	// side 435
+	brushDef3
+	{
+	}
+	// side 436
+	brushDef3
+	{
+	}
+	// side 437
+	brushDef3
+	{
+	}
+// primitive 438
+{
+	// side 439
+	brushDef3
+	{
+	}
+	// side 440
+	brushDef3
+	{
+	}
+	// side 441
+	brushDef3
+	{
+	}
+	// side 442
+	brushDef3
+	{
+	}
+	// side 443
+	brushDef3
+	{
+	}
+	// side 444
+	brushDef3
+	{
+	}
+// primitive 445
+{
+	// side 446
+	brushDef3
+	{
+	}
+	// side 447
+	brushDef3
+	{
+	}
+	// side 448
+	brushDef3
+	{
+	}
+	// side 449
+	brushDef3
+	{
+	}
+	// side 450
+	brushDef3
+	{
+	}
+	// side 451
+	brushDef3
+	{
+	}
+// primitive 452
+{
+	// side 453
+	brushDef3
+	{
+	}
+	// side 454
+	brushDef3
+	{
+	}
+	// side 455
+	brushDef3
+	{
+	}
+	// side 456
+	brushDef3
+	{
+	}
+	// side 457
+	brushDef3
+	{
+	}
+	// side 458
+	brushDef3
+	{
+	}
+// primitive 459
+{
+	// side 460
+	brushDef3
+	{
+	}
+	// side 461
+	brushDef3
+	{
+	}
+	// side 462
+	brushDef3
+	{
+	}
+	// side 463
+	brushDef3
+	{
+	}
+	// side 464
+	brushDef3
+	{
+	}
+	// side 465
+	brushDef3
+	{
+	}
+// primitive 466
+{
+	// side 467
+	brushDef3
+	{
+	}
+	// side 468
+	brushDef3
+	{
+	}
+	// side 469
+	brushDef3
+	{
+	}
+	// side 470
+	brushDef3
+	{
+	}
+	// side 471
+	brushDef3
+	{
+	}
+	// side 472
+	brushDef3
+	{
+	}
+// primitive 473
+{
+	// side 474
+	brushDef3
+	{
+	}
+	// side 475
+	brushDef3
+	{
+	}
+	// side 476
+	brushDef3
+	{
+	}
+	// side 477
+	brushDef3
+	{
+	}
+	// side 478
+	brushDef3
+	{
+	}
+	// side 479
+	brushDef3
+	{
+	}
+// primitive 480
+{
+	// side 481
+	brushDef3
+	{
+	}
+	// side 482
+	brushDef3
+	{
+	}
+	// side 483
+	brushDef3
+	{
+	}
+	// side 484
+	brushDef3
+	{
+	}
+	// side 485
+	brushDef3
+	{
+	}
+	// side 486
+	brushDef3
+	{
+	}
+// primitive 487
+{
+	// side 488
+	brushDef3
+	{
+	}
+	// side 489
+	brushDef3
+	{
+	}
+	// side 490
+	brushDef3
+	{
+	}
+	// side 491
+	brushDef3
+	{
+	}
+	// side 492
+	brushDef3
+	{
+	}
+	// side 493
+	brushDef3
+	{
+	}
+// primitive 494
+{
+	// side 495
+	brushDef3
+	{
+	}
+	// side 496
+	brushDef3
+	{
+	}
+	// side 497
+	brushDef3
+	{
+	}
+	// side 498
+	brushDef3
+	{
+	}
+	// side 499
+	brushDef3
+	{
+	}
+	// side 500
+	brushDef3
+	{
+	}
+// primitive 501
+{
+	// side 502
+	brushDef3
+	{
+	}
+	// side 503
+	brushDef3
+	{
+	}
+	// side 504
+	brushDef3
+	{
+	}
+	// side 505
+	brushDef3
+	{
+	}
+	// side 506
+	brushDef3
+	{
+	}
+	// side 507
+	brushDef3
+	{
+	}
+// primitive 508
+{
+	// side 509
+	brushDef3
+	{
+	}
+	// side 510
+	brushDef3
+	{
+	}
+	// side 511
+	brushDef3
+	{
+	}
+	// side 512
+	brushDef3
+	{
+	}
+	// side 513
+	brushDef3
+	{
+	}
+	// side 514
+	brushDef3
+	{
+	}
+// primitive 515
+{
+	// side 516
+	brushDef3
+	{
+	}
+	// side 517
+	brushDef3
+	{
+	}
+	// side 518
+	brushDef3
+	{
+	}
+	// side 519
+	brushDef3
+	{
+	}
+	// side 520
+	brushDef3
+	{
+	}
+	// side 521
+	brushDef3
+	{
+	}
+// primitive 522
+{
+	// side 523
+	brushDef3
+	{
+	}
+	// side 524
+	brushDef3
+	{
+	}
+	// side 525
+	brushDef3
+	{
+	}
+	// side 526
+	brushDef3
+	{
+	}
+	// side 527
+	brushDef3
+	{
+	}
+	// side 528
+	brushDef3
+	{
+	}
+// primitive 529
+{
+	// side 530
+	brushDef3
+	{
+	}
+	// side 531
+	brushDef3
+	{
+	}
+	// side 532
+	brushDef3
+	{
+	}
+	// side 533
+	brushDef3
+	{
+	}
+	// side 534
+	brushDef3
+	{
+	}
+	// side 535
+	brushDef3
+	{
+	}
+// primitive 536
+{
+	// side 537
+	brushDef3
+	{
+	}
+	// side 538
+	brushDef3
+	{
+	}
+	// side 539
+	brushDef3
+	{
+	}
+	// side 540
+	brushDef3
+	{
+	}
+	// side 541
+	brushDef3
+	{
+	}
+	// side 542
+	brushDef3
+	{
+	}
+// primitive 543
+{
+	// side 544
+	brushDef3
+	{
+	}
+	// side 545
+	brushDef3
+	{
+	}
+	// side 546
+	brushDef3
+	{
+	}
+	// side 547
+	brushDef3
+	{
+	}
+	// side 548
+	brushDef3
+	{
+	}
+	// side 549
+	brushDef3
+	{
+	}
+// primitive 550
+{
+	// side 551
+	brushDef3
+	{
+	}
+	// side 552
+	brushDef3
+	{
+	}
+	// side 553
+	brushDef3
+	{
+	}
+	// side 554
+	brushDef3
+	{
+	}
+	// side 555
+	brushDef3
+	{
+	}
+	// side 556
+	brushDef3
+	{
+	}
+// primitive 557
+{
+	// side 558
+	brushDef3
+	{
+	}
+	// side 559
+	brushDef3
+	{
+	}
+	// side 560
+	brushDef3
+	{
+	}
+	// side 561
+	brushDef3
+	{
+	}
+	// side 562
+	brushDef3
+	{
+	}
+	// side 563
+	brushDef3
+	{
+	}
+// primitive 564
+{
+	// side 565
+	brushDef3
+	{
+	}
+	// side 566
+	brushDef3
+	{
+	}
+	// side 567
+	brushDef3
+	{
+	}
+	// side 568
+	brushDef3
+	{
+	}
+	// side 569
+	brushDef3
+	{
+	}
+	// side 570
+	brushDef3
+	{
+	}
+// primitive 571
+{
+	// side 572
+	brushDef3
+	{
+	}
+	// side 573
+	brushDef3
+	{
+	}
+	// side 574
+	brushDef3
+	{
+	}
+	// side 575
+	brushDef3
+	{
+	}
+	// side 576
+	brushDef3
+	{
+	}
+	// side 577
+	brushDef3
+	{
+	}
+// primitive 578
+{
+	// side 579
+	brushDef3
+	{
+	}
+	// side 580
+	brushDef3
+	{
+	}
+	// side 581
+	brushDef3
+	{
+	}
+	// side 582
+	brushDef3
+	{
+	}
+	// side 583
+	brushDef3
+	{
+	}
+	// side 584
+	brushDef3
+	{
+	}
+// primitive 585
+{
+	// side 586
+	brushDef3
+	{
+	}
+	// side 587
+	brushDef3
+	{
+	}
+	// side 588
+	brushDef3
+	{
+	}
+	// side 589
+	brushDef3
+	{
+	}
+	// side 590
+	brushDef3
+	{
+	}
+	// side 591
+	brushDef3
+	{
+	}
+// primitive 592
+{
+	// side 593
+	brushDef3
+	{
+	}
+	// side 594
+	brushDef3
+	{
+	}
+	// side 595
+	brushDef3
+	{
+	}
+	// side 596
+	brushDef3
+	{
+	}
+	// side 597
+	brushDef3
+	{
+	}
+	// side 598
+	brushDef3
+	{
+	}
+// primitive 599
+{
+	// side 600
+	brushDef3
+	{
+	}
+	// side 601
+	brushDef3
+	{
+	}
+	// side 602
+	brushDef3
+	{
+	}
+	// side 603
+	brushDef3
+	{
+	}
+	// side 604
+	brushDef3
+	{
+	}
+	// side 605
+	brushDef3
+	{
+	}
+// primitive 606
+{
+	// side 607
+	brushDef3
+	{
+	}
+	// side 608
+	brushDef3
+	{
+	}
+	// side 609
+	brushDef3
+	{
+	}
+	// side 610
+	brushDef3
+	{
+	}
+	// side 611
+	brushDef3
+	{
+	}
+	// side 612
+	brushDef3
+	{
+	}
+// primitive 613
+{
+	// side 614
+	brushDef3
+	{
+	}
+	// side 615
+	brushDef3
+	{
+	}
+	// side 616
+	brushDef3
+	{
+	}
+	// side 617
+	brushDef3
+	{
+	}
+	// side 618
+	brushDef3
+	{
+	}
+// primitive 619
+{
+	// side 620
+	brushDef3
+	{
+	}
+	// side 621
+	brushDef3
+	{
+	}
+	// side 622
+	brushDef3
+	{
+	}
+	// side 623
+	brushDef3
+	{
+	}
+	// side 624
+	brushDef3
+	{
+	}
+	// side 625
+	brushDef3
+	{
+	}
+// primitive 626
+{
+	// side 627
+	brushDef3
+	{
+	}
+	// side 628
+	brushDef3
+	{
+	}
+	// side 629
+	brushDef3
+	{
+	}
+	// side 630
+	brushDef3
+	{
+	}
+	// side 631
+	brushDef3
+	{
+	}
+	// side 632
+	brushDef3
+	{
+	}
+// primitive 633
+{
+	// side 634
+	brushDef3
+	{
+	}
+	// side 635
+	brushDef3
+	{
+	}
+	// side 636
+	brushDef3
+	{
+	}
+	// side 637
+	brushDef3
+	{
+	}
+	// side 638
+	brushDef3
+	{
+	}
+	// side 639
+	brushDef3
+	{
+	}
+// primitive 640
+{
+	// side 641
+	brushDef3
+	{
+	}
+	// side 642
+	brushDef3
+	{
+	}
+	// side 643
+	brushDef3
+	{
+	}
+	// side 644
+	brushDef3
+	{
+	}
+	// side 645
+	brushDef3
+	{
+	}
+	// side 646
+	brushDef3
+	{
+	}
+// primitive 647
+{
+	// side 648
+	brushDef3
+	{
+	}
+	// side 649
+	brushDef3
+	{
+	}
+	// side 650
+	brushDef3
+	{
+	}
+	// side 651
+	brushDef3
+	{
+	}
+	// side 652
+	brushDef3
+	{
+	}
+	// side 653
+	brushDef3
+	{
+	}
+// primitive 654
+{
+	// side 655
+	brushDef3
+	{
+	}
+	// side 656
+	brushDef3
+	{
+	}
+	// side 657
+	brushDef3
+	{
+	}
+	// side 658
+	brushDef3
+	{
+	}
+	// side 659
+	brushDef3
+	{
+	}
+	// side 660
+	brushDef3
+	{
+	}
+// primitive 661
+{
+	// side 662
+	brushDef3
+	{
+	}
+	// side 663
+	brushDef3
+	{
+	}
+	// side 664
+	brushDef3
+	{
+	}
+	// side 665
+	brushDef3
+	{
+	}
+	// side 666
+	brushDef3
+	{
+	}
+	// side 667
+	brushDef3
+	{
+	}
+// primitive 668
+{
+	// side 669
+	brushDef3
+	{
+	}
+	// side 670
+	brushDef3
+	{
+	}
+	// side 671
+	brushDef3
+	{
+	}
+	// side 672
+	brushDef3
+	{
+	}
+	// side 673
+	brushDef3
+	{
+	}
+	// side 674
+	brushDef3
+	{
+	}
+// primitive 675
+{
+	// side 676
+	brushDef3
+	{
+	}
+	// side 677
+	brushDef3
+	{
+	}
+	// side 678
+	brushDef3
+	{
+	}
+	// side 679
+	brushDef3
+	{
+	}
+	// side 680
+	brushDef3
+	{
+	}
+	// side 681
+	brushDef3
+	{
+	}
+// primitive 682
+{
+	// side 683
+	brushDef3
+	{
+	}
+	// side 684
+	brushDef3
+	{
+	}
+	// side 685
+	brushDef3
+	{
+	}
+	// side 686
+	brushDef3
+	{
+	}
+	// side 687
+	brushDef3
+	{
+	}
+	// side 688
+	brushDef3
+	{
+	}
+// primitive 689
+{
+	// side 690
+	brushDef3
+	{
+	}
+	// side 691
+	brushDef3
+	{
+	}
+	// side 692
+	brushDef3
+	{
+	}
+	// side 693
+	brushDef3
+	{
+	}
+	// side 694
+	brushDef3
+	{
+	}
+	// side 695
+	brushDef3
+	{
+	}
+// primitive 696
+{
+	// side 697
+	brushDef3
+	{
+	}
+	// side 698
+	brushDef3
+	{
+	}
+	// side 699
+	brushDef3
+	{
+	}
+	// side 700
+	brushDef3
+	{
+	}
+	// side 701
+	brushDef3
+	{
+	}
+	// side 702
+	brushDef3
+	{
+	}
+// primitive 703
+{
+	// side 704
+	brushDef3
+	{
+	}
+	// side 705
+	brushDef3
+	{
+	}
+	// side 706
+	brushDef3
+	{
+	}
+	// side 707
+	brushDef3
+	{
+	}
+	// side 708
+	brushDef3
+	{
+	}
+	// side 709
+	brushDef3
+	{
+	}
+// primitive 710
+{
+	// side 711
+	brushDef3
+	{
+	}
+	// side 712
+	brushDef3
+	{
+	}
+	// side 713
+	brushDef3
+	{
+	}
+	// side 714
+	brushDef3
+	{
+	}
+	// side 715
+	brushDef3
+	{
+	}
+	// side 716
+	brushDef3
+	{
+	}
+// primitive 717
+{
+	// side 718
+	brushDef3
+	{
+	}
+	// side 719
+	brushDef3
+	{
+	}
+	// side 720
+	brushDef3
+	{
+	}
+	// side 721
+	brushDef3
+	{
+	}
+	// side 722
+	brushDef3
+	{
+	}
+	// side 723
+	brushDef3
+	{
+	}
+// primitive 724
+{
+	// side 725
+	brushDef3
+	{
+	}
+	// side 726
+	brushDef3
+	{
+	}
+	// side 727
+	brushDef3
+	{
+	}
+	// side 728
+	brushDef3
+	{
+	}
+	// side 729
+	brushDef3
+	{
+	}
+	// side 730
+	brushDef3
+	{
+	}
+// primitive 731
+{
+	// side 732
+	brushDef3
+	{
+	}
+	// side 733
+	brushDef3
+	{
+	}
+	// side 734
+	brushDef3
+	{
+	}
+	// side 735
+	brushDef3
+	{
+	}
+	// side 736
+	brushDef3
+	{
+	}
+	// side 737
+	brushDef3
+	{
+	}
+// primitive 738
+{
+	// side 739
+	brushDef3
+	{
+	}
+	// side 740
+	brushDef3
+	{
+	}
+	// side 741
+	brushDef3
+	{
+	}
+	// side 742
+	brushDef3
+	{
+	}
+	// side 743
+	brushDef3
+	{
+	}
+	// side 744
+	brushDef3
+	{
+	}
+// primitive 745
+{
+	// side 746
+	brushDef3
+	{
+	}
+	// side 747
+	brushDef3
+	{
+	}
+	// side 748
+	brushDef3
+	{
+	}
+	// side 749
+	brushDef3
+	{
+	}
+	// side 750
+	brushDef3
+	{
+	}
+	// side 751
+	brushDef3
+	{
+	}
+// primitive 752
+{
+	// side 753
+	brushDef3
+	{
+	}
+	// side 754
+	brushDef3
+	{
+	}
+	// side 755
+	brushDef3
+	{
+	}
+	// side 756
+	brushDef3
+	{
+	}
+	// side 757
+	brushDef3
+	{
+	}
+	// side 758
+	brushDef3
+	{
+	}
+// primitive 759
+{
+	// side 760
+	brushDef3
+	{
+	}
+	// side 761
+	brushDef3
+	{
+	}
+	// side 762
+	brushDef3
+	{
+	}
+	// side 763
+	brushDef3
+	{
+	}
+	// side 764
+	brushDef3
+	{
+	}
+	// side 765
+	brushDef3
+	{
+	}
+// primitive 766
+{
+	// side 767
+	brushDef3
+	{
+	}
+	// side 768
+	brushDef3
+	{
+	}
+	// side 769
+	brushDef3
+	{
+	}
+	// side 770
+	brushDef3
+	{
+	}
+	// side 771
+	brushDef3
+	{
+	}
+	// side 772
+	brushDef3
+	{
+	}
+// primitive 773
+{
+	// side 774
+	brushDef3
+	{
+	}
+	// side 775
+	brushDef3
+	{
+	}
+	// side 776
+	brushDef3
+	{
+	}
+	// side 777
+	brushDef3
+	{
+	}
+	// side 778
+	brushDef3
+	{
+	}
+	// side 779
+	brushDef3
+	{
+	}
+// primitive 780
+{
+	// side 781
+	brushDef3
+	{
+	}
+	// side 782
+	brushDef3
+	{
+	}
+	// side 783
+	brushDef3
+	{
+	}
+	// side 784
+	brushDef3
+	{
+	}
+	// side 785
+	brushDef3
+	{
+	}
+	// side 786
+	brushDef3
+	{
+	}
+// primitive 787
+{
+	// side 788
+	brushDef3
+	{
+	}
+	// side 789
+	brushDef3
+	{
+	}
+	// side 790
+	brushDef3
+	{
+	}
+	// side 791
+	brushDef3
+	{
+	}
+	// side 792
+	brushDef3
+	{
+	}
+	// side 793
+	brushDef3
+	{
+	}
+// primitive 794
+{
+	// side 795
+	brushDef3
+	{
+	}
+	// side 796
+	brushDef3
+	{
+	}
+	// side 797
+	brushDef3
+	{
+	}
+	// side 798
+	brushDef3
+	{
+	}
+	// side 799
+	brushDef3
+	{
+	}
+	// side 800
+	brushDef3
+	{
+	}
+// primitive 801
+{
+	// side 802
+	brushDef3
+	{
+	}
+	// side 803
+	brushDef3
+	{
+	}
+	// side 804
+	brushDef3
+	{
+	}
+	// side 805
+	brushDef3
+	{
+	}
+	// side 806
+	brushDef3
+	{
+	}
+	// side 807
+	brushDef3
+	{
+	}
+// primitive 808
+{
+	// side 809
+	brushDef3
+	{
+	}
+	// side 810
+	brushDef3
+	{
+	}
+	// side 811
+	brushDef3
+	{
+	}
+	// side 812
+	brushDef3
+	{
+	}
+	// side 813
+	brushDef3
+	{
+	}
+	// side 814
+	brushDef3
+	{
+	}
+// primitive 815
+{
+	// side 816
+	brushDef3
+	{
+	}
+	// side 817
+	brushDef3
+	{
+	}
+	// side 818
+	brushDef3
+	{
+	}
+	// side 819
+	brushDef3
+	{
+	}
+	// side 820
+	brushDef3
+	{
+	}
+	// side 821
+	brushDef3
+	{
+	}
+// primitive 822
+{
+	// side 823
+	brushDef3
+	{
+	}
+	// side 824
+	brushDef3
+	{
+	}
+	// side 825
+	brushDef3
+	{
+	}
+	// side 826
+	brushDef3
+	{
+	}
+	// side 827
+	brushDef3
+	{
+	}
+	// side 828
+	brushDef3
+	{
+	}
+// primitive 829
+{
+	// side 830
+	brushDef3
+	{
+	}
+	// side 831
+	brushDef3
+	{
+	}
+	// side 832
+	brushDef3
+	{
+	}
+	// side 833
+	brushDef3
+	{
+	}
+	// side 834
+	brushDef3
+	{
+	}
+	// side 835
+	brushDef3
+	{
+	}
+// primitive 836
+{
+	// side 837
+	brushDef3
+	{
+	}
+	// side 838
+	brushDef3
+	{
+	}
+	// side 839
+	brushDef3
+	{
+	}
+	// side 840
+	brushDef3
+	{
+	}
+	// side 841
+	brushDef3
+	{
+	}
+	// side 842
+	brushDef3
+	{
+	}
+// primitive 843
+{
+	// side 844
+	brushDef3
+	{
+	}
+	// side 845
+	brushDef3
+	{
+	}
+	// side 846
+	brushDef3
+	{
+	}
+	// side 847
+	brushDef3
+	{
+	}
+	// side 848
+	brushDef3
+	{
+	}
+	// side 849
+	brushDef3
+	{
+	}
+// primitive 850
+{
+	// side 851
+	brushDef3
+	{
+	}
+	// side 852
+	brushDef3
+	{
+	}
+	// side 853
+	brushDef3
+	{
+	}
+	// side 854
+	brushDef3
+	{
+	}
+	// side 855
+	brushDef3
+	{
+	}
+	// side 856
+	brushDef3
+	{
+	}
+// primitive 857
+{
+	// side 858
+	brushDef3
+	{
+	}
+	// side 859
+	brushDef3
+	{
+	}
+	// side 860
+	brushDef3
+	{
+	}
+	// side 861
+	brushDef3
+	{
+	}
+	// side 862
+	brushDef3
+	{
+	}
+	// side 863
+	brushDef3
+	{
+	}
+// primitive 864
+{
+	// side 865
+	brushDef3
+	{
+	}
+	// side 866
+	brushDef3
+	{
+	}
+	// side 867
+	brushDef3
+	{
+	}
+	// side 868
+	brushDef3
+	{
+	}
+	// side 869
+	brushDef3
+	{
+	}
+	// side 870
+	brushDef3
+	{
+	}
+// primitive 871
+{
+	// side 872
+	brushDef3
+	{
+	}
+	// side 873
+	brushDef3
+	{
+	}
+	// side 874
+	brushDef3
+	{
+	}
+	// side 875
+	brushDef3
+	{
+	}
+	// side 876
+	brushDef3
+	{
+	}
+	// side 877
+	brushDef3
+	{
+	}
+// primitive 878
+{
+	// side 879
+	brushDef3
+	{
+	}
+	// side 880
+	brushDef3
+	{
+	}
+	// side 881
+	brushDef3
+	{
+	}
+	// side 882
+	brushDef3
+	{
+	}
+	// side 883
+	brushDef3
+	{
+	}
+	// side 884
+	brushDef3
+	{
+	}
+// primitive 885
+{
+	// side 886
+	brushDef3
+	{
+	}
+	// side 887
+	brushDef3
+	{
+	}
+	// side 888
+	brushDef3
+	{
+	}
+	// side 889
+	brushDef3
+	{
+	}
+	// side 890
+	brushDef3
+	{
+	}
+	// side 891
+	brushDef3
+	{
+	}
+// primitive 892
+{
+	// side 893
+	brushDef3
+	{
+	}
+	// side 894
+	brushDef3
+	{
+	}
+	// side 895
+	brushDef3
+	{
+	}
+	// side 896
+	brushDef3
+	{
+	}
+	// side 897
+	brushDef3
+	{
+	}
+	// side 898
+	brushDef3
+	{
+	}
+// primitive 899
+{
+	// side 900
+	brushDef3
+	{
+	}
+	// side 901
+	brushDef3
+	{
+	}
+	// side 902
+	brushDef3
+	{
+	}
+	// side 903
+	brushDef3
+	{
+	}
+	// side 904
+	brushDef3
+	{
+	}
+	// side 905
+	brushDef3
+	{
+	}
+// primitive 906
+{
+	// side 907
+	brushDef3
+	{
+	}
+	// side 908
+	brushDef3
+	{
+	}
+	// side 909
+	brushDef3
+	{
+	}
+	// side 910
+	brushDef3
+	{
+	}
+	// side 911
+	brushDef3
+	{
+	}
+	// side 912
+	brushDef3
+	{
+	}
+// primitive 913
+{
+	// side 914
+	brushDef3
+	{
+	}
+	// side 915
+	brushDef3
+	{
+	}
+	// side 916
+	brushDef3
+	{
+	}
+	// side 917
+	brushDef3
+	{
+	}
+	// side 918
+	brushDef3
+	{
+	}
+	// side 919
+	brushDef3
+	{
+	}
+// primitive 920
+{
+	// side 921
+	brushDef3
+	{
+	}
+	// side 922
+	brushDef3
+	{
+	}
+	// side 923
+	brushDef3
+	{
+	}
+	// side 924
+	brushDef3
+	{
+	}
+	// side 925
+	brushDef3
+	{
+	}
+	// side 926
+	brushDef3
+	{
+	}
+// primitive 927
+{
+	// side 928
+	brushDef3
+	{
+	}
+	// side 929
+	brushDef3
+	{
+	}
+	// side 930
+	brushDef3
+	{
+	}
+	// side 931
+	brushDef3
+	{
+	}
+	// side 932
+	brushDef3
+	{
+	}
+	// side 933
+	brushDef3
+	{
+	}
+// primitive 934
+{
+	// side 935
+	brushDef3
+	{
+	}
+	// side 936
+	brushDef3
+	{
+	}
+	// side 937
+	brushDef3
+	{
+	}
+	// side 938
+	brushDef3
+	{
+	}
+	// side 939
+	brushDef3
+	{
+	}
+	// side 940
+	brushDef3
+	{
+	}
+// primitive 941
+{
+	// side 942
+	brushDef3
+	{
+	}
+	// side 943
+	brushDef3
+	{
+	}
+	// side 944
+	brushDef3
+	{
+	}
+	// side 945
+	brushDef3
+	{
+	}
+	// side 946
+	brushDef3
+	{
+	}
+	// side 947
+	brushDef3
+	{
+	}
+// primitive 948
+{
+	// side 949
+	brushDef3
+	{
+	}
+	// side 950
+	brushDef3
+	{
+	}
+	// side 951
+	brushDef3
+	{
+	}
+	// side 952
+	brushDef3
+	{
+	}
+	// side 953
+	brushDef3
+	{
+	}
+	// side 954
+	brushDef3
+	{
+	}
+// primitive 955
+{
+	// side 956
+	brushDef3
+	{
+	}
+	// side 957
+	brushDef3
+	{
+	}
+	// side 958
+	brushDef3
+	{
+	}
+	// side 959
+	brushDef3
+	{
+	}
+	// side 960
+	brushDef3
+	{
+	}
+	// side 961
+	brushDef3
+	{
+	}
+// primitive 962
+{
+	// side 963
+	brushDef3
+	{
+	}
+	// side 964
+	brushDef3
+	{
+	}
+	// side 965
+	brushDef3
+	{
+	}
+	// side 966
+	brushDef3
+	{
+	}
+	// side 967
+	brushDef3
+	{
+	}
+	// side 968
+	brushDef3
+	{
+	}
+// primitive 969
+{
+	// side 970
+	brushDef3
+	{
+	}
+	// side 971
+	brushDef3
+	{
+	}
+	// side 972
+	brushDef3
+	{
+	}
+	// side 973
+	brushDef3
+	{
+	}
+	// side 974
+	brushDef3
+	{
+	}
+	// side 975
+	brushDef3
+	{
+	}
+// primitive 976
+{
+	// side 977
+	brushDef3
+	{
+	}
+	// side 978
+	brushDef3
+	{
+	}
+	// side 979
+	brushDef3
+	{
+	}
+	// side 980
+	brushDef3
+	{
+	}
+	// side 981
+	brushDef3
+	{
+	}
+// primitive 982
+{
+	// side 983
+	brushDef3
+	{
+	}
+	// side 984
+	brushDef3
+	{
+	}
+	// side 985
+	brushDef3
+	{
+	}
+	// side 986
+	brushDef3
+	{
+	}
+	// side 987
+	brushDef3
+	{
+	}
+	// side 988
+	brushDef3
+	{
+	}
+// primitive 989
+{
+	// side 990
+	brushDef3
+	{
+	}
+	// side 991
+	brushDef3
+	{
+	}
+	// side 992
+	brushDef3
+	{
+	}
+	// side 993
+	brushDef3
+	{
+	}
+	// side 994
+	brushDef3
+	{
+	}
+	// side 995
+	brushDef3
+	{
+	}
+// primitive 996
+{
+	// side 997
+	brushDef3
+	{
+	}
+	// side 998
+	brushDef3
+	{
+	}
+	// side 999
+	brushDef3
+	{
+	}
+	// side 1000
+	brushDef3
+	{
+	}
+	// side 1001
+	brushDef3
+	{
+	}
+	// side 1002
+	brushDef3
+	{
+	}
+// primitive 1003
+{
+	// side 1004
+	brushDef3
+	{
+	}
+	// side 1005
+	brushDef3
+	{
+	}
+	// side 1006
+	brushDef3
+	{
+	}
+	// side 1007
+	brushDef3
+	{
+	}
+	// side 1008
+	brushDef3
+	{
+	}
+	// side 1009
+	brushDef3
+	{
+	}
+// primitive 1010
+{
+	// side 1011
+	brushDef3
+	{
+	}
+	// side 1012
+	brushDef3
+	{
+	}
+	// side 1013
+	brushDef3
+	{
+	}
+	// side 1014
+	brushDef3
+	{
+	}
+	// side 1015
+	brushDef3
+	{
+	}
+	// side 1016
+	brushDef3
+	{
+	}
+// primitive 1017
+{
+	// side 1018
+	brushDef3
+	{
+	}
+	// side 1019
+	brushDef3
+	{
+	}
+	// side 1020
+	brushDef3
+	{
+	}
+	// side 1021
+	brushDef3
+	{
+	}
+	// side 1022
+	brushDef3
+	{
+	}
+	// side 1023
+	brushDef3
+	{
+	}
+// primitive 1024
+{
+	// side 1025
+	brushDef3
+	{
+	}
+	// side 1026
+	brushDef3
+	{
+	}
+	// side 1027
+	brushDef3
+	{
+	}
+	// side 1028
+	brushDef3
+	{
+	}
+	// side 1029
+	brushDef3
+	{
+	}
+	// side 1030
+	brushDef3
+	{
+	}
+// primitive 1031
+{
+	// side 1032
+	brushDef3
+	{
+	}
+	// side 1033
+	brushDef3
+	{
+	}
+	// side 1034
+	brushDef3
+	{
+	}
+	// side 1035
+	brushDef3
+	{
+	}
+	// side 1036
+	brushDef3
+	{
+	}
+	// side 1037
+	brushDef3
+	{
+	}
+// primitive 1038
+{
+	// side 1039
+	brushDef3
+	{
+	}
+	// side 1040
+	brushDef3
+	{
+	}
+	// side 1041
+	brushDef3
+	{
+	}
+	// side 1042
+	brushDef3
+	{
+	}
+	// side 1043
+	brushDef3
+	{
+	}
+	// side 1044
+	brushDef3
+	{
+	}
+// primitive 1045
+{
+	// side 1046
+	brushDef3
+	{
+	}
+	// side 1047
+	brushDef3
+	{
+	}
+	// side 1048
+	brushDef3
+	{
+	}
+	// side 1049
+	brushDef3
+	{
+	}
+	// side 1050
+	brushDef3
+	{
+	}
+	// side 1051
+	brushDef3
+	{
+	}
+// primitive 1052
+{
+	// side 1053
+	brushDef3
+	{
+	}
+	// side 1054
+	brushDef3
+	{
+	}
+	// side 1055
+	brushDef3
+	{
+	}
+	// side 1056
+	brushDef3
+	{
+	}
+	// side 1057
+	brushDef3
+	{
+	}
+	// side 1058
+	brushDef3
+	{
+	}
+// primitive 1059
+{
+	// side 1060
+	brushDef3
+	{
+	}
+	// side 1061
+	brushDef3
+	{
+	}
+	// side 1062
+	brushDef3
+	{
+	}
+	// side 1063
+	brushDef3
+	{
+	}
+	// side 1064
+	brushDef3
+	{
+	}
+	// side 1065
+	brushDef3
+	{
+	}
+// primitive 1066
+{
+	// side 1067
+	brushDef3
+	{
+	}
+	// side 1068
+	brushDef3
+	{
+	}
+	// side 1069
+	brushDef3
+	{
+	}
+	// side 1070
+	brushDef3
+	{
+	}
+	// side 1071
+	brushDef3
+	{
+	}
+	// side 1072
+	brushDef3
+	{
+	}
+// primitive 1073
+{
+	// side 1074
+	brushDef3
+	{
+	}
+	// side 1075
+	brushDef3
+	{
+	}
+	// side 1076
+	brushDef3
+	{
+	}
+	// side 1077
+	brushDef3
+	{
+	}
+	// side 1078
+	brushDef3
+	{
+	}
+	// side 1079
+	brushDef3
+	{
+	}
+// primitive 1080
+{
+	// side 1081
+	brushDef3
+	{
+	}
+	// side 1082
+	brushDef3
+	{
+	}
+	// side 1083
+	brushDef3
+	{
+	}
+	// side 1084
+	brushDef3
+	{
+	}
+	// side 1085
+	brushDef3
+	{
+	}
+	// side 1086
+	brushDef3
+	{
+	}
+// primitive 1087
+{
+	// side 1088
+	brushDef3
+	{
+	}
+	// side 1089
+	brushDef3
+	{
+	}
+	// side 1090
+	brushDef3
+	{
+	}
+	// side 1091
+	brushDef3
+	{
+	}
+	// side 1092
+	brushDef3
+	{
+	}
+	// side 1093
+	brushDef3
+	{
+	}
+// primitive 1094
+{
+	// side 1095
+	brushDef3
+	{
+	}
+	// side 1096
+	brushDef3
+	{
+	}
+	// side 1097
+	brushDef3
+	{
+	}
+	// side 1098
+	brushDef3
+	{
+	}
+	// side 1099
+	brushDef3
+	{
+	}
+	// side 1100
+	brushDef3
+	{
+	}
+// primitive 1101
+{
+	// side 1102
+	brushDef3
+	{
+	}
+	// side 1103
+	brushDef3
+	{
+	}
+	// side 1104
+	brushDef3
+	{
+	}
+	// side 1105
+	brushDef3
+	{
+	}
+	// side 1106
+	brushDef3
+	{
+	}
+	// side 1107
+	brushDef3
+	{
+	}
+// primitive 1108
+{
+	// side 1109
+	brushDef3
+	{
+	}
+	// side 1110
+	brushDef3
+	{
+	}
+	// side 1111
+	brushDef3
+	{
+	}
+	// side 1112
+	brushDef3
+	{
+	}
+	// side 1113
+	brushDef3
+	{
+	}
+	// side 1114
+	brushDef3
+	{
+	}
+// primitive 1115
+{
+	// side 1116
+	brushDef3
+	{
+	}
+	// side 1117
+	brushDef3
+	{
+	}
+	// side 1118
+	brushDef3
+	{
+	}
+	// side 1119
+	brushDef3
+	{
+	}
+	// side 1120
+	brushDef3
+	{
+	}
+	// side 1121
+	brushDef3
+	{
+	}
+// primitive 1122
+{
+	// side 1123
+	brushDef3
+	{
+	}
+	// side 1124
+	brushDef3
+	{
+	}
+	// side 1125
+	brushDef3
+	{
+	}
+	// side 1126
+	brushDef3
+	{
+	}
+	// side 1127
+	brushDef3
+	{
+	}
+	// side 1128
+	brushDef3
+	{
+	}
+// primitive 1129
+{
+	// side 1130
+	brushDef3
+	{
+	}
+	// side 1131
+	brushDef3
+	{
+	}
+	// side 1132
+	brushDef3
+	{
+	}
+	// side 1133
+	brushDef3
+	{
+	}
+	// side 1134
+	brushDef3
+	{
+	}
+	// side 1135
+	brushDef3
+	{
+	}
+// primitive 1136
+{
+	// side 1137
+	brushDef3
+	{
+	}
+	// side 1138
+	brushDef3
+	{
+	}
+	// side 1139
+	brushDef3
+	{
+	}
+	// side 1140
+	brushDef3
+	{
+	}
+	// side 1141
+	brushDef3
+	{
+	}
+	// side 1142
+	brushDef3
+	{
+	}
+// primitive 1143
+{
+	// side 1144
+	brushDef3
+	{
+	}
+	// side 1145
+	brushDef3
+	{
+	}
+	// side 1146
+	brushDef3
+	{
+	}
+	// side 1147
+	brushDef3
+	{
+	}
+	// side 1148
+	brushDef3
+	{
+	}
+	// side 1149
+	brushDef3
+	{
+	}
+// primitive 1150
+{
+	// side 1151
+	brushDef3
+	{
+	}
+	// side 1152
+	brushDef3
+	{
+	}
+	// side 1153
+	brushDef3
+	{
+	}
+	// side 1154
+	brushDef3
+	{
+	}
+	// side 1155
+	brushDef3
+	{
+	}
+	// side 1156
+	brushDef3
+	{
+	}
+// primitive 1157
+{
+	// side 1158
+	brushDef3
+	{
+	}
+	// side 1159
+	brushDef3
+	{
+	}
+	// side 1160
+	brushDef3
+	{
+	}
+	// side 1161
+	brushDef3
+	{
+	}
+	// side 1162
+	brushDef3
+	{
+	}
+	// side 1163
+	brushDef3
+	{
+	}
+// primitive 1164
+{
+	// side 1165
+	brushDef3
+	{
+	}
+	// side 1166
+	brushDef3
+	{
+	}
+	// side 1167
+	brushDef3
+	{
+	}
+	// side 1168
+	brushDef3
+	{
+	}
+	// side 1169
+	brushDef3
+	{
+	}
+	// side 1170
+	brushDef3
+	{
+	}
+// primitive 1171
+{
+	// side 1172
+	brushDef3
+	{
+	}
+	// side 1173
+	brushDef3
+	{
+	}
+	// side 1174
+	brushDef3
+	{
+	}
+	// side 1175
+	brushDef3
+	{
+	}
+	// side 1176
+	brushDef3
+	{
+	}
+	// side 1177
+	brushDef3
+	{
+	}
+// primitive 1178
+{
+	// side 1179
+	brushDef3
+	{
+	}
+	// side 1180
+	brushDef3
+	{
+	}
+	// side 1181
+	brushDef3
+	{
+	}
+	// side 1182
+	brushDef3
+	{
+	}
+	// side 1183
+	brushDef3
+	{
+	}
+	// side 1184
+	brushDef3
+	{
+	}
+// primitive 1185
+{
+	// side 1186
+	brushDef3
+	{
+	}
+	// side 1187
+	brushDef3
+	{
+	}
+	// side 1188
+	brushDef3
+	{
+	}
+	// side 1189
+	brushDef3
+	{
+	}
+	// side 1190
+	brushDef3
+	{
+	}
+	// side 1191
+	brushDef3
+	{
+	}
+// primitive 1192
+{
+	// side 1193
+	brushDef3
+	{
+	}
+	// side 1194
+	brushDef3
+	{
+	}
+	// side 1195
+	brushDef3
+	{
+	}
+	// side 1196
+	brushDef3
+	{
+	}
+	// side 1197
+	brushDef3
+	{
+	}
+	// side 1198
+	brushDef3
+	{
+	}
+// primitive 1199
+{
+	// side 1200
+	brushDef3
+	{
+	}
+	// side 1201
+	brushDef3
+	{
+	}
+	// side 1202
+	brushDef3
+	{
+	}
+	// side 1203
+	brushDef3
+	{
+	}
+	// side 1204
+	brushDef3
+	{
+	}
+	// side 1205
+	brushDef3
+	{
+	}
+// primitive 1206
+{
+	// side 1207
+	brushDef3
+	{
+	}
+	// side 1208
+	brushDef3
+	{
+	}
+	// side 1209
+	brushDef3
+	{
+	}
+	// side 1210
+	brushDef3
+	{
+	}
+	// side 1211
+	brushDef3
+	{
+	}
+	// side 1212
+	brushDef3
+	{
+	}
+// primitive 1213
+{
+	// side 1214
+	brushDef3
+	{
+	}
+	// side 1215
+	brushDef3
+	{
+	}
+	// side 1216
+	brushDef3
+	{
+	}
+	// side 1217
+	brushDef3
+	{
+	}
+	// side 1218
+	brushDef3
+	{
+	}
+	// side 1219
+	brushDef3
+	{
+	}
+// primitive 1220
+{
+	// side 1221
+	brushDef3
+	{
+	}
+	// side 1222
+	brushDef3
+	{
+	}
+	// side 1223
+	brushDef3
+	{
+	}
+	// side 1224
+	brushDef3
+	{
+	}
+	// side 1225
+	brushDef3
+	{
+	}
+	// side 1226
+	brushDef3
+	{
+	}
+// primitive 1227
+{
+	// side 1228
+	brushDef3
+	{
+	}
+	// side 1229
+	brushDef3
+	{
+	}
+	// side 1230
+	brushDef3
+	{
+	}
+	// side 1231
+	brushDef3
+	{
+	}
+	// side 1232
+	brushDef3
+	{
+	}
+	// side 1233
+	brushDef3
+	{
+	}
+// primitive 1234
+{
+	// side 1235
+	brushDef3
+	{
+	}
+	// side 1236
+	brushDef3
+	{
+	}
+	// side 1237
+	brushDef3
+	{
+	}
+	// side 1238
+	brushDef3
+	{
+	}
+	// side 1239
+	brushDef3
+	{
+	}
+	// side 1240
+	brushDef3
+	{
+	}
+// primitive 1241
+{
+	// side 1242
+	brushDef3
+	{
+	}
+	// side 1243
+	brushDef3
+	{
+	}
+	// side 1244
+	brushDef3
+	{
+	}
+	// side 1245
+	brushDef3
+	{
+	}
+	// side 1246
+	brushDef3
+	{
+	}
+	// side 1247
+	brushDef3
+	{
+	}
+// primitive 1248
+{
+	// side 1249
+	brushDef3
+	{
+	}
+	// side 1250
+	brushDef3
+	{
+	}
+	// side 1251
+	brushDef3
+	{
+	}
+	// side 1252
+	brushDef3
+	{
+	}
+	// side 1253
+	brushDef3
+	{
+	}
+	// side 1254
+	brushDef3
+	{
+	}
+	// side 1255
+	brushDef3
+	{
+	}
+// primitive 1256
+{
+	// side 1257
+	brushDef3
+	{
+	}
+	// side 1258
+	brushDef3
+	{
+	}
+	// side 1259
+	brushDef3
+	{
+	}
+	// side 1260
+	brushDef3
+	{
+	}
+	// side 1261
+	brushDef3
+	{
+	}
+	// side 1262
+	brushDef3
+	{
+	}
+// primitive 1263
+{
+	// side 1264
+	brushDef3
+	{
+	}
+	// side 1265
+	brushDef3
+	{
+	}
+	// side 1266
+	brushDef3
+	{
+	}
+	// side 1267
+	brushDef3
+	{
+	}
+	// side 1268
+	brushDef3
+	{
+	}
+	// side 1269
+	brushDef3
+	{
+	}
+// primitive 1270
+{
+	// side 1271
+	brushDef3
+	{
+	}
+	// side 1272
+	brushDef3
+	{
+	}
+	// side 1273
+	brushDef3
+	{
+	}
+	// side 1274
+	brushDef3
+	{
+	}
+	// side 1275
+	brushDef3
+	{
+	}
+	// side 1276
+	brushDef3
+	{
+	}
+// primitive 1277
+{
+	// side 1278
+	brushDef3
+	{
+	}
+	// side 1279
+	brushDef3
+	{
+	}
+	// side 1280
+	brushDef3
+	{
+	}
+	// side 1281
+	brushDef3
+	{
+	}
+	// side 1282
+	brushDef3
+	{
+	}
+	// side 1283
+	brushDef3
+	{
+	}
+	// side 1284
+	brushDef3
+	{
+	}
+// primitive 1285
+{
+	// side 1286
+	brushDef3
+	{
+	}
+	// side 1287
+	brushDef3
+	{
+	}
+	// side 1288
+	brushDef3
+	{
+	}
+	// side 1289
+	brushDef3
+	{
+	}
+	// side 1290
+	brushDef3
+	{
+	}
+	// side 1291
+	brushDef3
+	{
+	}
+// primitive 1292
+{
+	// side 1293
+	brushDef3
+	{
+	}
+	// side 1294
+	brushDef3
+	{
+	}
+	// side 1295
+	brushDef3
+	{
+	}
+	// side 1296
+	brushDef3
+	{
+	}
+	// side 1297
+	brushDef3
+	{
+	}
+	// side 1298
+	brushDef3
+	{
+	}
+// primitive 1299
+{
+	// side 1300
+	brushDef3
+	{
+	}
+	// side 1301
+	brushDef3
+	{
+	}
+	// side 1302
+	brushDef3
+	{
+	}
+	// side 1303
+	brushDef3
+	{
+	}
+	// side 1304
+	brushDef3
+	{
+	}
+	// side 1305
+	brushDef3
+	{
+	}
+// primitive 1306
+{
+	// side 1307
+	brushDef3
+	{
+	}
+	// side 1308
+	brushDef3
+	{
+	}
+	// side 1309
+	brushDef3
+	{
+	}
+	// side 1310
+	brushDef3
+	{
+	}
+	// side 1311
+	brushDef3
+	{
+	}
+	// side 1312
+	brushDef3
+	{
+	}
+// primitive 1313
+{
+	// side 1314
+	brushDef3
+	{
+	}
+	// side 1315
+	brushDef3
+	{
+	}
+	// side 1316
+	brushDef3
+	{
+	}
+	// side 1317
+	brushDef3
+	{
+	}
+	// side 1318
+	brushDef3
+	{
+	}
+	// side 1319
+	brushDef3
+	{
+	}
+// primitive 1320
+{
+	// side 1321
+	brushDef3
+	{
+	}
+	// side 1322
+	brushDef3
+	{
+	}
+	// side 1323
+	brushDef3
+	{
+	}
+	// side 1324
+	brushDef3
+	{
+	}
+	// side 1325
+	brushDef3
+	{
+	}
+	// side 1326
+	brushDef3
+	{
+	}
+// primitive 1327
+{
+	// side 1328
+	brushDef3
+	{
+	}
+	// side 1329
+	brushDef3
+	{
+	}
+	// side 1330
+	brushDef3
+	{
+	}
+	// side 1331
+	brushDef3
+	{
+	}
+	// side 1332
+	brushDef3
+	{
+	}
+	// side 1333
+	brushDef3
+	{
+	}
+// primitive 1334
+{
+	// side 1335
+	brushDef3
+	{
+	}
+	// side 1336
+	brushDef3
+	{
+	}
+	// side 1337
+	brushDef3
+	{
+	}
+	// side 1338
+	brushDef3
+	{
+	}
+	// side 1339
+	brushDef3
+	{
+	}
+	// side 1340
+	brushDef3
+	{
+	}
+// primitive 1341
+{
+	// side 1342
+	brushDef3
+	{
+	}
+	// side 1343
+	brushDef3
+	{
+	}
+	// side 1344
+	brushDef3
+	{
+	}
+	// side 1345
+	brushDef3
+	{
+	}
+	// side 1346
+	brushDef3
+	{
+	}
+	// side 1347
+	brushDef3
+	{
+	}
+// primitive 1348
+{
+	// side 1349
+	brushDef3
+	{
+	}
+	// side 1350
+	brushDef3
+	{
+	}
+	// side 1351
+	brushDef3
+	{
+	}
+	// side 1352
+	brushDef3
+	{
+	}
+	// side 1353
+	brushDef3
+	{
+	}
+	// side 1354
+	brushDef3
+	{
+	}
+// primitive 1355
+{
+	// side 1356
+	brushDef3
+	{
+	}
+	// side 1357
+	brushDef3
+	{
+	}
+	// side 1358
+	brushDef3
+	{
+	}
+	// side 1359
+	brushDef3
+	{
+	}
+	// side 1360
+	brushDef3
+	{
+	}
+	// side 1361
+	brushDef3
+	{
+	}
+// primitive 1362
+{
+	// side 1363
+	brushDef3
+	{
+	}
+	// side 1364
+	brushDef3
+	{
+	}
+	// side 1365
+	brushDef3
+	{
+	}
+	// side 1366
+	brushDef3
+	{
+	}
+	// side 1367
+	brushDef3
+	{
+	}
+	// side 1368
+	brushDef3
+	{
+	}
+// primitive 1369
+{
+	// side 1370
+	brushDef3
+	{
+	}
+	// side 1371
+	brushDef3
+	{
+	}
+	// side 1372
+	brushDef3
+	{
+	}
+	// side 1373
+	brushDef3
+	{
+	}
+	// side 1374
+	brushDef3
+	{
+	}
+	// side 1375
+	brushDef3
+	{
+	}
+// primitive 1376
+{
+	// side 1377
+	brushDef3
+	{
+	}
+	// side 1378
+	brushDef3
+	{
+	}
+	// side 1379
+	brushDef3
+	{
+	}
+	// side 1380
+	brushDef3
+	{
+	}
+	// side 1381
+	brushDef3
+	{
+	}
+// primitive 1382
+{
+	// side 1383
+	brushDef3
+	{
+	}
+	// side 1384
+	brushDef3
+	{
+	}
+	// side 1385
+	brushDef3
+	{
+	}
+	// side 1386
+	brushDef3
+	{
+	}
+	// side 1387
+	brushDef3
+	{
+	}
+	// side 1388
+	brushDef3
+	{
+	}
+// primitive 1389
+{
+	// side 1390
+	brushDef3
+	{
+	}
+	// side 1391
+	brushDef3
+	{
+	}
+	// side 1392
+	brushDef3
+	{
+	}
+	// side 1393
+	brushDef3
+	{
+	}
+	// side 1394
+	brushDef3
+	{
+	}
+	// side 1395
+	brushDef3
+	{
+	}
+// primitive 1396
+{
+	// side 1397
+	brushDef3
+	{
+	}
+	// side 1398
+	brushDef3
+	{
+	}
+	// side 1399
+	brushDef3
+	{
+	}
+	// side 1400
+	brushDef3
+	{
+	}
+	// side 1401
+	brushDef3
+	{
+	}
+	// side 1402
+	brushDef3
+	{
+	}
+// primitive 1403
+{
+	// side 1404
+	brushDef3
+	{
+	}
+	// side 1405
+	brushDef3
+	{
+	}
+	// side 1406
+	brushDef3
+	{
+	}
+	// side 1407
+	brushDef3
+	{
+	}
+	// side 1408
+	brushDef3
+	{
+	}
+// primitive 1409
+{
+	// side 1410
+	brushDef3
+	{
+	}
+	// side 1411
+	brushDef3
+	{
+	}
+	// side 1412
+	brushDef3
+	{
+	}
+	// side 1413
+	brushDef3
+	{
+	}
+	// side 1414
+	brushDef3
+	{
+	}
+	// side 1415
+	brushDef3
+	{
+	}
+// primitive 1416
+{
+	// side 1417
+	brushDef3
+	{
+	}
+	// side 1418
+	brushDef3
+	{
+	}
+	// side 1419
+	brushDef3
+	{
+	}
+	// side 1420
+	brushDef3
+	{
+	}
+	// side 1421
+	brushDef3
+	{
+	}
+	// side 1422
+	brushDef3
+	{
+	}
+// primitive 1423
+{
+	// side 1424
+	brushDef3
+	{
+	}
+	// side 1425
+	brushDef3
+	{
+	}
+	// side 1426
+	brushDef3
+	{
+	}
+	// side 1427
+	brushDef3
+	{
+	}
+	// side 1428
+	brushDef3
+	{
+	}
+	// side 1429
+	brushDef3
+	{
+	}
+// primitive 1430
+{
+	// side 1431
+	brushDef3
+	{
+	}
+	// side 1432
+	brushDef3
+	{
+	}
+	// side 1433
+	brushDef3
+	{
+	}
+	// side 1434
+	brushDef3
+	{
+	}
+	// side 1435
+	brushDef3
+	{
+	}
+	// side 1436
+	brushDef3
+	{
+	}
+// primitive 1437
+{
+	// side 1438
+	brushDef3
+	{
+	}
+	// side 1439
+	brushDef3
+	{
+	}
+	// side 1440
+	brushDef3
+	{
+	}
+	// side 1441
+	brushDef3
+	{
+	}
+	// side 1442
+	brushDef3
+	{
+	}
+	// side 1443
+	brushDef3
+	{
+	}
+	// side 1444
+	brushDef3
+	{
+	}
+	// side 1445
+	brushDef3
+	{
+	}
+// primitive 1446
+{
+	// side 1447
+	brushDef3
+	{
+	}
+	// side 1448
+	brushDef3
+	{
+	}
+	// side 1449
+	brushDef3
+	{
+	}
+	// side 1450
+	brushDef3
+	{
+	}
+	// side 1451
+	brushDef3
+	{
+	}
+	// side 1452
+	brushDef3
+	{
+	}
+// primitive 1453
+{
+	// side 1454
+	brushDef3
+	{
+	}
+	// side 1455
+	brushDef3
+	{
+	}
+	// side 1456
+	brushDef3
+	{
+	}
+	// side 1457
+	brushDef3
+	{
+	}
+	// side 1458
+	brushDef3
+	{
+	}
+	// side 1459
+	brushDef3
+	{
+	}
+// primitive 1460
+{
+	// side 1461
+	brushDef3
+	{
+	}
+	// side 1462
+	brushDef3
+	{
+	}
+	// side 1463
+	brushDef3
+	{
+	}
+	// side 1464
+	brushDef3
+	{
+	}
+	// side 1465
+	brushDef3
+	{
+	}
+	// side 1466
+	brushDef3
+	{
+	}
+// primitive 1467
+{
+	// side 1468
+	brushDef3
+	{
+	}
+	// side 1469
+	brushDef3
+	{
+	}
+	// side 1470
+	brushDef3
+	{
+	}
+	// side 1471
+	brushDef3
+	{
+	}
+	// side 1472
+	brushDef3
+	{
+	}
+// primitive 1473
+{
+	// side 1474
+	brushDef3
+	{
+	}
+	// side 1475
+	brushDef3
+	{
+	}
+	// side 1476
+	brushDef3
+	{
+	}
+	// side 1477
+	brushDef3
+	{
+	}
+	// side 1478
+	brushDef3
+	{
+	}
+// primitive 1479
+{
+	// side 1480
+	brushDef3
+	{
+	}
+	// side 1481
+	brushDef3
+	{
+	}
+	// side 1482
+	brushDef3
+	{
+	}
+	// side 1483
+	brushDef3
+	{
+	}
+	// side 1484
+	brushDef3
+	{
+	}
+	// side 1485
+	brushDef3
+	{
+	}
+// primitive 1486
+{
+	// side 1487
+	brushDef3
+	{
+	}
+	// side 1488
+	brushDef3
+	{
+	}
+	// side 1489
+	brushDef3
+	{
+	}
+	// side 1490
+	brushDef3
+	{
+	}
+	// side 1491
+	brushDef3
+	{
+	}
+	// side 1492
+	brushDef3
+	{
+	}
+// primitive 1493
+{
+	// side 1494
+	brushDef3
+	{
+	}
+	// side 1495
+	brushDef3
+	{
+	}
+	// side 1496
+	brushDef3
+	{
+	}
+	// side 1497
+	brushDef3
+	{
+	}
+	// side 1498
+	brushDef3
+	{
+	}
+	// side 1499
+	brushDef3
+	{
+	}
+// primitive 1500
+{
+	// side 1501
+	brushDef3
+	{
+	}
+	// side 1502
+	brushDef3
+	{
+	}
+	// side 1503
+	brushDef3
+	{
+	}
+	// side 1504
+	brushDef3
+	{
+	}
+	// side 1505
+	brushDef3
+	{
+	}
+	// side 1506
+	brushDef3
+	{
+	}
+// primitive 1507
+{
+	// side 1508
+	brushDef3
+	{
+	}
+	// side 1509
+	brushDef3
+	{
+	}
+	// side 1510
+	brushDef3
+	{
+	}
+	// side 1511
+	brushDef3
+	{
+	}
+	// side 1512
+	brushDef3
+	{
+	}
+// primitive 1513
+{
+	// side 1514
+	brushDef3
+	{
+	}
+	// side 1515
+	brushDef3
+	{
+	}
+	// side 1516
+	brushDef3
+	{
+	}
+	// side 1517
+	brushDef3
+	{
+	}
+	// side 1518
+	brushDef3
+	{
+	}
+	// side 1519
+	brushDef3
+	{
+	}
+// primitive 1520
+{
+	// side 1521
+	brushDef3
+	{
+	}
+	// side 1522
+	brushDef3
+	{
+	}
+	// side 1523
+	brushDef3
+	{
+	}
+	// side 1524
+	brushDef3
+	{
+	}
+	// side 1525
+	brushDef3
+	{
+	}
+	// side 1526
+	brushDef3
+	{
+	}
+// primitive 1527
+{
+	// side 1528
+	brushDef3
+	{
+	}
+	// side 1529
+	brushDef3
+	{
+	}
+	// side 1530
+	brushDef3
+	{
+	}
+	// side 1531
+	brushDef3
+	{
+	}
+	// side 1532
+	brushDef3
+	{
+	}
+	// side 1533
+	brushDef3
+	{
+	}
+// primitive 1534
+{
+	// side 1535
+	brushDef3
+	{
+	}
+	// side 1536
+	brushDef3
+	{
+	}
+	// side 1537
+	brushDef3
+	{
+	}
+	// side 1538
+	brushDef3
+	{
+	}
+	// side 1539
+	brushDef3
+	{
+	}
+// primitive 1540
+{
+	// side 1541
+	brushDef3
+	{
+	}
+	// side 1542
+	brushDef3
+	{
+	}
+	// side 1543
+	brushDef3
+	{
+	}
+	// side 1544
+	brushDef3
+	{
+	}
+	// side 1545
+	brushDef3
+	{
+	}
+	// side 1546
+	brushDef3
+	{
+	}
+// primitive 1547
+{
+	// side 1548
+	brushDef3
+	{
+	}
+	// side 1549
+	brushDef3
+	{
+	}
+	// side 1550
+	brushDef3
+	{
+	}
+	// side 1551
+	brushDef3
+	{
+	}
+	// side 1552
+	brushDef3
+	{
+	}
+	// side 1553
+	brushDef3
+	{
+	}
+// primitive 1554
+{
+	// side 1555
+	brushDef3
+	{
+	}
+	// side 1556
+	brushDef3
+	{
+	}
+	// side 1557
+	brushDef3
+	{
+	}
+	// side 1558
+	brushDef3
+	{
+	}
+	// side 1559
+	brushDef3
+	{
+	}
+	// side 1560
+	brushDef3
+	{
+	}
+// primitive 1561
+{
+	// side 1562
+	brushDef3
+	{
+	}
+	// side 1563
+	brushDef3
+	{
+	}
+	// side 1564
+	brushDef3
+	{
+	}
+	// side 1565
+	brushDef3
+	{
+	}
+	// side 1566
+	brushDef3
+	{
+	}
+	// side 1567
+	brushDef3
+	{
+	}
+// primitive 1568
+{
+	// side 1569
+	brushDef3
+	{
+	}
+	// side 1570
+	brushDef3
+	{
+	}
+	// side 1571
+	brushDef3
+	{
+	}
+	// side 1572
+	brushDef3
+	{
+	}
+	// side 1573
+	brushDef3
+	{
+	}
+	// side 1574
+	brushDef3
+	{
+	}
+	// side 1575
+	brushDef3
+	{
+	}
+	// side 1576
+	brushDef3
+	{
+	}
+// primitive 1577
+{
+	// side 1578
+	brushDef3
+	{
+	}
+	// side 1579
+	brushDef3
+	{
+	}
+	// side 1580
+	brushDef3
+	{
+	}
+	// side 1581
+	brushDef3
+	{
+	}
+	// side 1582
+	brushDef3
+	{
+	}
+	// side 1583
+	brushDef3
+	{
+	}
+// primitive 1584
+{
+	// side 1585
+	brushDef3
+	{
+	}
+	// side 1586
+	brushDef3
+	{
+	}
+	// side 1587
+	brushDef3
+	{
+	}
+	// side 1588
+	brushDef3
+	{
+	}
+	// side 1589
+	brushDef3
+	{
+	}
+	// side 1590
+	brushDef3
+	{
+	}
+// primitive 1591
+{
+	// side 1592
+	brushDef3
+	{
+	}
+	// side 1593
+	brushDef3
+	{
+	}
+	// side 1594
+	brushDef3
+	{
+	}
+	// side 1595
+	brushDef3
+	{
+	}
+	// side 1596
+	brushDef3
+	{
+	}
+	// side 1597
+	brushDef3
+	{
+	}
+// primitive 1598
+{
+	// side 1599
+	brushDef3
+	{
+	}
+	// side 1600
+	brushDef3
+	{
+	}
+	// side 1601
+	brushDef3
+	{
+	}
+	// side 1602
+	brushDef3
+	{
+	}
+	// side 1603
+	brushDef3
+	{
+	}
+// primitive 1604
+{
+	// side 1605
+	brushDef3
+	{
+	}
+	// side 1606
+	brushDef3
+	{
+	}
+	// side 1607
+	brushDef3
+	{
+	}
+	// side 1608
+	brushDef3
+	{
+	}
+	// side 1609
+	brushDef3
+	{
+	}
+	// side 1610
+	brushDef3
+	{
+	}
+// primitive 1611
+{
+	// side 1612
+	brushDef3
+	{
+	}
+	// side 1613
+	brushDef3
+	{
+	}
+	// side 1614
+	brushDef3
+	{
+	}
+	// side 1615
+	brushDef3
+	{
+	}
+	// side 1616
+	brushDef3
+	{
+	}
+	// side 1617
+	brushDef3
+	{
+	}
+// primitive 1618
+{
+	// side 1619
+	brushDef3
+	{
+	}
+	// side 1620
+	brushDef3
+	{
+	}
+	// side 1621
+	brushDef3
+	{
+	}
+	// side 1622
+	brushDef3
+	{
+	}
+	// side 1623
+	brushDef3
+	{
+	}
+	// side 1624
+	brushDef3
+	{
+	}
+// primitive 1625
+{
+	// side 1626
+	brushDef3
+	{
+	}
+	// side 1627
+	brushDef3
+	{
+	}
+	// side 1628
+	brushDef3
+	{
+	}
+	// side 1629
+	brushDef3
+	{
+	}
+	// side 1630
+	brushDef3
+	{
+	}
+	// side 1631
+	brushDef3
+	{
+	}
+// primitive 1632
+{
+	// side 1633
+	brushDef3
+	{
+	}
+	// side 1634
+	brushDef3
+	{
+	}
+	// side 1635
+	brushDef3
+	{
+	}
+	// side 1636
+	brushDef3
+	{
+	}
+	// side 1637
+	brushDef3
+	{
+	}
+	// side 1638
+	brushDef3
+	{
+	}
+// primitive 1639
+{
+	// side 1640
+	brushDef3
+	{
+	}
+	// side 1641
+	brushDef3
+	{
+	}
+	// side 1642
+	brushDef3
+	{
+	}
+	// side 1643
+	brushDef3
+	{
+	}
+	// side 1644
+	brushDef3
+	{
+	}
+	// side 1645
+	brushDef3
+	{
+	}
+// primitive 1646
+{
+	// side 1647
+	brushDef3
+	{
+	}
+	// side 1648
+	brushDef3
+	{
+	}
+	// side 1649
+	brushDef3
+	{
+	}
+	// side 1650
+	brushDef3
+	{
+	}
+	// side 1651
+	brushDef3
+	{
+	}
+	// side 1652
+	brushDef3
+	{
+	}
+// primitive 1653
+{
+	// side 1654
+	brushDef3
+	{
+	}
+	// side 1655
+	brushDef3
+	{
+	}
+	// side 1656
+	brushDef3
+	{
+	}
+	// side 1657
+	brushDef3
+	{
+	}
+	// side 1658
+	brushDef3
+	{
+	}
+// primitive 1659
+{
+	// side 1660
+	brushDef3
+	{
+	}
+	// side 1661
+	brushDef3
+	{
+	}
+	// side 1662
+	brushDef3
+	{
+	}
+	// side 1663
+	brushDef3
+	{
+	}
+	// side 1664
+	brushDef3
+	{
+	}
+	// side 1665
+	brushDef3
+	{
+	}
+// primitive 1666
+{
+	// side 1667
+	brushDef3
+	{
+	}
+	// side 1668
+	brushDef3
+	{
+	}
+	// side 1669
+	brushDef3
+	{
+	}
+	// side 1670
+	brushDef3
+	{
+	}
+	// side 1671
+	brushDef3
+	{
+	}
+	// side 1672
+	brushDef3
+	{
+	}
+// primitive 1673
+{
+	// side 1674
+	brushDef3
+	{
+	}
+	// side 1675
+	brushDef3
+	{
+	}
+	// side 1676
+	brushDef3
+	{
+	}
+	// side 1677
+	brushDef3
+	{
+	}
+	// side 1678
+	brushDef3
+	{
+	}
+	// side 1679
+	brushDef3
+	{
+	}
+// primitive 1680
+{
+	// side 1681
+	brushDef3
+	{
+	}
+	// side 1682
+	brushDef3
+	{
+	}
+	// side 1683
+	brushDef3
+	{
+	}
+	// side 1684
+	brushDef3
+	{
+	}
+	// side 1685
+	brushDef3
+	{
+	}
+	// side 1686
+	brushDef3
+	{
+	}
+// primitive 1687
+{
+	// side 1688
+	brushDef3
+	{
+	}
+	// side 1689
+	brushDef3
+	{
+	}
+	// side 1690
+	brushDef3
+	{
+	}
+	// side 1691
+	brushDef3
+	{
+	}
+	// side 1692
+	brushDef3
+	{
+	}
+	// side 1693
+	brushDef3
+	{
+	}
+// primitive 1694
+{
+	// side 1695
+	brushDef3
+	{
+	}
+	// side 1696
+	brushDef3
+	{
+	}
+	// side 1697
+	brushDef3
+	{
+	}
+	// side 1698
+	brushDef3
+	{
+	}
+	// side 1699
+	brushDef3
+	{
+	}
+	// side 1700
+	brushDef3
+	{
+	}
+// primitive 1701
+{
+	// side 1702
+	brushDef3
+	{
+	}
+	// side 1703
+	brushDef3
+	{
+	}
+	// side 1704
+	brushDef3
+	{
+	}
+	// side 1705
+	brushDef3
+	{
+	}
+	// side 1706
+	brushDef3
+	{
+	}
+	// side 1707
+	brushDef3
+	{
+	}
+// primitive 1708
+{
+	// side 1709
+	brushDef3
+	{
+	}
+	// side 1710
+	brushDef3
+	{
+	}
+	// side 1711
+	brushDef3
+	{
+	}
+	// side 1712
+	brushDef3
+	{
+	}
+	// side 1713
+	brushDef3
+	{
+	}
+// primitive 1714
+{
+	// side 1715
+	brushDef3
+	{
+	}
+	// side 1716
+	brushDef3
+	{
+	}
+	// side 1717
+	brushDef3
+	{
+	}
+	// side 1718
+	brushDef3
+	{
+	}
+	// side 1719
+	brushDef3
+	{
+	}
+	// side 1720
+	brushDef3
+	{
+	}
+// primitive 1721
+{
+	// side 1722
+	brushDef3
+	{
+	}
+	// side 1723
+	brushDef3
+	{
+	}
+	// side 1724
+	brushDef3
+	{
+	}
+	// side 1725
+	brushDef3
+	{
+	}
+	// side 1726
+	brushDef3
+	{
+	}
+	// side 1727
+	brushDef3
+	{
+	}
+// primitive 1728
+{
+	// side 1729
+	brushDef3
+	{
+	}
+	// side 1730
+	brushDef3
+	{
+	}
+	// side 1731
+	brushDef3
+	{
+	}
+	// side 1732
+	brushDef3
+	{
+	}
+	// side 1733
+	brushDef3
+	{
+	}
+	// side 1734
+	brushDef3
+	{
+	}
+// primitive 1735
+{
+	// side 1736
+	brushDef3
+	{
+	}
+	// side 1737
+	brushDef3
+	{
+	}
+	// side 1738
+	brushDef3
+	{
+	}
+	// side 1739
+	brushDef3
+	{
+	}
+	// side 1740
+	brushDef3
+	{
+	}
+	// side 1741
+	brushDef3
+	{
+	}
+// primitive 1742
+{
+	// side 1743
+	brushDef3
+	{
+	}
+	// side 1744
+	brushDef3
+	{
+	}
+	// side 1745
+	brushDef3
+	{
+	}
+	// side 1746
+	brushDef3
+	{
+	}
+	// side 1747
+	brushDef3
+	{
+	}
+// primitive 1748
+{
+	// side 1749
+	brushDef3
+	{
+	}
+	// side 1750
+	brushDef3
+	{
+	}
+	// side 1751
+	brushDef3
+	{
+	}
+	// side 1752
+	brushDef3
+	{
+	}
+	// side 1753
+	brushDef3
+	{
+	}
+	// side 1754
+	brushDef3
+	{
+	}
+// primitive 1755
+{
+	// side 1756
+	brushDef3
+	{
+	}
+	// side 1757
+	brushDef3
+	{
+	}
+	// side 1758
+	brushDef3
+	{
+	}
+	// side 1759
+	brushDef3
+	{
+	}
+	// side 1760
+	brushDef3
+	{
+	}
+	// side 1761
+	brushDef3
+	{
+	}
+// primitive 1762
+{
+	// side 1763
+	brushDef3
+	{
+	}
+	// side 1764
+	brushDef3
+	{
+	}
+	// side 1765
+	brushDef3
+	{
+	}
+	// side 1766
+	brushDef3
+	{
+	}
+	// side 1767
+	brushDef3
+	{
+	}
+	// side 1768
+	brushDef3
+	{
+	}
+// primitive 1769
+{
+	// side 1770
+	brushDef3
+	{
+	}
+	// side 1771
+	brushDef3
+	{
+	}
+	// side 1772
+	brushDef3
+	{
+	}
+	// side 1773
+	brushDef3
+	{
+	}
+	// side 1774
+	brushDef3
+	{
+	}
+// primitive 1775
+{
+	// side 1776
+	brushDef3
+	{
+	}
+	// side 1777
+	brushDef3
+	{
+	}
+	// side 1778
+	brushDef3
+	{
+	}
+	// side 1779
+	brushDef3
+	{
+	}
+	// side 1780
+	brushDef3
+	{
+	}
+	// side 1781
+	brushDef3
+	{
+	}
+// primitive 1782
+{
+	// side 1783
+	brushDef3
+	{
+	}
+	// side 1784
+	brushDef3
+	{
+	}
+	// side 1785
+	brushDef3
+	{
+	}
+	// side 1786
+	brushDef3
+	{
+	}
+	// side 1787
+	brushDef3
+	{
+	}
+	// side 1788
+	brushDef3
+	{
+	}
+// primitive 1789
+{
+	// side 1790
+	brushDef3
+	{
+	}
+	// side 1791
+	brushDef3
+	{
+	}
+	// side 1792
+	brushDef3
+	{
+	}
+	// side 1793
+	brushDef3
+	{
+	}
+	// side 1794
+	brushDef3
+	{
+	}
+	// side 1795
+	brushDef3
+	{
+	}
+// primitive 1796
+{
+	// side 1797
+	brushDef3
+	{
+	}
+	// side 1798
+	brushDef3
+	{
+	}
+	// side 1799
+	brushDef3
+	{
+	}
+	// side 1800
+	brushDef3
+	{
+	}
+	// side 1801
+	brushDef3
+	{
+	}
+	// side 1802
+	brushDef3
+	{
+	}
+// primitive 1803
+{
+	// side 1804
+	brushDef3
+	{
+	}
+	// side 1805
+	brushDef3
+	{
+	}
+	// side 1806
+	brushDef3
+	{
+	}
+	// side 1807
+	brushDef3
+	{
+	}
+	// side 1808
+	brushDef3
+	{
+	}
+	// side 1809
+	brushDef3
+	{
+	}
+// primitive 1810
+{
+	// side 1811
+	brushDef3
+	{
+	}
+	// side 1812
+	brushDef3
+	{
+	}
+	// side 1813
+	brushDef3
+	{
+	}
+	// side 1814
+	brushDef3
+	{
+	}
+	// side 1815
+	brushDef3
+	{
+	}
+// primitive 1816
+{
+	// side 1817
+	brushDef3
+	{
+	}
+	// side 1818
+	brushDef3
+	{
+	}
+	// side 1819
+	brushDef3
+	{
+	}
+	// side 1820
+	brushDef3
+	{
+	}
+	// side 1821
+	brushDef3
+	{
+	}
+	// side 1822
+	brushDef3
+	{
+	}
+// primitive 1823
+{
+	// side 1824
+	brushDef3
+	{
+	}
+	// side 1825
+	brushDef3
+	{
+	}
+	// side 1826
+	brushDef3
+	{
+	}
+	// side 1827
+	brushDef3
+	{
+	}
+	// side 1828
+	brushDef3
+	{
+	}
+	// side 1829
+	brushDef3
+	{
+	}
+// primitive 1830
+{
+	// side 1831
+	brushDef3
+	{
+	}
+	// side 1832
+	brushDef3
+	{
+	}
+	// side 1833
+	brushDef3
+	{
+	}
+	// side 1834
+	brushDef3
+	{
+	}
+	// side 1835
+	brushDef3
+	{
+	}
+	// side 1836
+	brushDef3
+	{
+	}
+// primitive 1837
+{
+	// side 1838
+	brushDef3
+	{
+	}
+	// side 1839
+	brushDef3
+	{
+	}
+	// side 1840
+	brushDef3
+	{
+	}
+	// side 1841
+	brushDef3
+	{
+	}
+	// side 1842
+	brushDef3
+	{
+	}
+// primitive 1843
+{
+	// side 1844
+	brushDef3
+	{
+	}
+	// side 1845
+	brushDef3
+	{
+	}
+	// side 1846
+	brushDef3
+	{
+	}
+	// side 1847
+	brushDef3
+	{
+	}
+	// side 1848
+	brushDef3
+	{
+	}
+	// side 1849
+	brushDef3
+	{
+	}
+// primitive 1850
+{
+	// side 1851
+	brushDef3
+	{
+	}
+	// side 1852
+	brushDef3
+	{
+	}
+	// side 1853
+	brushDef3
+	{
+	}
+	// side 1854
+	brushDef3
+	{
+	}
+	// side 1855
+	brushDef3
+	{
+	}
+	// side 1856
+	brushDef3
+	{
+	}
+	// side 1857
+	brushDef3
+	{
+	}
+	// side 1858
+	brushDef3
+	{
+	}
+	// side 1859
+	brushDef3
+	{
+	}
+	// side 1860
+	brushDef3
+	{
+	}
+	// side 1861
+	brushDef3
+	{
+	}
+	// side 1862
+	brushDef3
+	{
+	}
+// primitive 1863
+{
+	// side 1864
+	brushDef3
+	{
+	}
+	// side 1865
+	brushDef3
+	{
+	}
+	// side 1866
+	brushDef3
+	{
+	}
+	// side 1867
+	brushDef3
+	{
+	}
+	// side 1868
+	brushDef3
+	{
+	}
+	// side 1869
+	brushDef3
+	{
+	}
+// primitive 1870
+{
+	// side 1871
+	brushDef3
+	{
+	}
+	// side 1872
+	brushDef3
+	{
+	}
+	// side 1873
+	brushDef3
+	{
+	}
+	// side 1874
+	brushDef3
+	{
+	}
+	// side 1875
+	brushDef3
+	{
+	}
+	// side 1876
+	brushDef3
+	{
+	}
+// primitive 1877
+{
+	// side 1878
+	brushDef3
+	{
+	}
+	// side 1879
+	brushDef3
+	{
+	}
+	// side 1880
+	brushDef3
+	{
+	}
+	// side 1881
+	brushDef3
+	{
+	}
+	// side 1882
+	brushDef3
+	{
+	}
+	// side 1883
+	brushDef3
+	{
+	}
+// primitive 1884
+{
+	// side 1885
+	brushDef3
+	{
+	}
+	// side 1886
+	brushDef3
+	{
+	}
+	// side 1887
+	brushDef3
+	{
+	}
+	// side 1888
+	brushDef3
+	{
+	}
+	// side 1889
+	brushDef3
+	{
+	}
+	// side 1890
+	brushDef3
+	{
+	}
+// primitive 1891
+{
+	// side 1892
+	brushDef3
+	{
+	}
+	// side 1893
+	brushDef3
+	{
+	}
+	// side 1894
+	brushDef3
+	{
+	}
+	// side 1895
+	brushDef3
+	{
+	}
+	// side 1896
+	brushDef3
+	{
+	}
+	// side 1897
+	brushDef3
+	{
+	}
+// primitive 1898
+{
+	// side 1899
+	brushDef3
+	{
+	}
+	// side 1900
+	brushDef3
+	{
+	}
+	// side 1901
+	brushDef3
+	{
+	}
+	// side 1902
+	brushDef3
+	{
+	}
+	// side 1903
+	brushDef3
+	{
+	}
+	// side 1904
+	brushDef3
+	{
+	}
+// primitive 1905
+{
+	// side 1906
+	brushDef3
+	{
+	}
+	// side 1907
+	brushDef3
+	{
+	}
+	// side 1908
+	brushDef3
+	{
+	}
+	// side 1909
+	brushDef3
+	{
+	}
+	// side 1910
+	brushDef3
+	{
+	}
+	// side 1911
+	brushDef3
+	{
+	}
+// primitive 1912
+{
+	// side 1913
+	brushDef3
+	{
+	}
+	// side 1914
+	brushDef3
+	{
+	}
+	// side 1915
+	brushDef3
+	{
+	}
+	// side 1916
+	brushDef3
+	{
+	}
+	// side 1917
+	brushDef3
+	{
+	}
+	// side 1918
+	brushDef3
+	{
+	}
+	// side 1919
+	brushDef3
+	{
+	}
+// primitive 1920
+{
+	// side 1921
+	brushDef3
+	{
+	}
+	// side 1922
+	brushDef3
+	{
+	}
+	// side 1923
+	brushDef3
+	{
+	}
+	// side 1924
+	brushDef3
+	{
+	}
+	// side 1925
+	brushDef3
+	{
+	}
+	// side 1926
+	brushDef3
+	{
+	}
+// primitive 1927
+{
+	// side 1928
+	brushDef3
+	{
+	}
+	// side 1929
+	brushDef3
+	{
+	}
+	// side 1930
+	brushDef3
+	{
+	}
+	// side 1931
+	brushDef3
+	{
+	}
+	// side 1932
+	brushDef3
+	{
+	}
+	// side 1933
+	brushDef3
+	{
+	}
+// primitive 1934
+{
+	// side 1935
+	brushDef3
+	{
+	}
+	// side 1936
+	brushDef3
+	{
+	}
+	// side 1937
+	brushDef3
+	{
+	}
+	// side 1938
+	brushDef3
+	{
+	}
+	// side 1939
+	brushDef3
+	{
+	}
+	// side 1940
+	brushDef3
+	{
+	}
+// primitive 1941
+{
+	// side 1942
+	brushDef3
+	{
+	}
+	// side 1943
+	brushDef3
+	{
+	}
+	// side 1944
+	brushDef3
+	{
+	}
+	// side 1945
+	brushDef3
+	{
+	}
+	// side 1946
+	brushDef3
+	{
+	}
+// primitive 1947
+{
+	// side 1948
+	brushDef3
+	{
+	}
+	// side 1949
+	brushDef3
+	{
+	}
+	// side 1950
+	brushDef3
+	{
+	}
+	// side 1951
+	brushDef3
+	{
+	}
+	// side 1952
+	brushDef3
+	{
+	}
+	// side 1953
+	brushDef3
+	{
+	}
+// primitive 1954
+{
+	// side 1955
+	brushDef3
+	{
+	}
+	// side 1956
+	brushDef3
+	{
+	}
+	// side 1957
+	brushDef3
+	{
+	}
+	// side 1958
+	brushDef3
+	{
+	}
+	// side 1959
+	brushDef3
+	{
+	}
+	// side 1960
+	brushDef3
+	{
+	}
+// primitive 1961
+{
+	// side 1962
+	brushDef3
+	{
+	}
+	// side 1963
+	brushDef3
+	{
+	}
+	// side 1964
+	brushDef3
+	{
+	}
+	// side 1965
+	brushDef3
+	{
+	}
+	// side 1966
+	brushDef3
+	{
+	}
+	// side 1967
+	brushDef3
+	{
+	}
+// primitive 1968
+{
+	// side 1969
+	brushDef3
+	{
+	}
+	// side 1970
+	brushDef3
+	{
+	}
+	// side 1971
+	brushDef3
+	{
+	}
+	// side 1972
+	brushDef3
+	{
+	}
+	// side 1973
+	brushDef3
+	{
+	}
+	// side 1974
+	brushDef3
+	{
+	}
+// primitive 1975
+{
+	// side 1976
+	brushDef3
+	{
+	}
+	// side 1977
+	brushDef3
+	{
+	}
+	// side 1978
+	brushDef3
+	{
+	}
+	// side 1979
+	brushDef3
+	{
+	}
+	// side 1980
+	brushDef3
+	{
+	}
+	// side 1981
+	brushDef3
+	{
+	}
+// primitive 1982
+{
+	// side 1983
+	brushDef3
+	{
+	}
+	// side 1984
+	brushDef3
+	{
+	}
+	// side 1985
+	brushDef3
+	{
+	}
+	// side 1986
+	brushDef3
+	{
+	}
+	// side 1987
+	brushDef3
+	{
+	}
+	// side 1988
+	brushDef3
+	{
+	}
+// primitive 1989
+{
+	// side 1990
+	brushDef3
+	{
+	}
+	// side 1991
+	brushDef3
+	{
+	}
+	// side 1992
+	brushDef3
+	{
+	}
+	// side 1993
+	brushDef3
+	{
+	}
+	// side 1994
+	brushDef3
+	{
+	}
+	// side 1995
+	brushDef3
+	{
+	}
+// primitive 1996
+{
+	// side 1997
+	brushDef3
+	{
+	}
+	// side 1998
+	brushDef3
+	{
+	}
+	// side 1999
+	brushDef3
+	{
+	}
+	// side 2000
+	brushDef3
+	{
+	}
+	// side 2001
+	brushDef3
+	{
+	}
+	// side 2002
+	brushDef3
+	{
+	}
+// primitive 2003
+{
+	// side 2004
+	brushDef3
+	{
+	}
+	// side 2005
+	brushDef3
+	{
+	}
+	// side 2006
+	brushDef3
+	{
+	}
+	// side 2007
+	brushDef3
+	{
+	}
+	// side 2008
+	brushDef3
+	{
+	}
+	// side 2009
+	brushDef3
+	{
+	}
+	// side 2010
+	brushDef3
+	{
+	}
+	// side 2011
+	brushDef3
+	{
+	}
+// primitive 2012
+{
+	// side 2013
+	brushDef3
+	{
+	}
+	// side 2014
+	brushDef3
+	{
+	}
+	// side 2015
+	brushDef3
+	{
+	}
+	// side 2016
+	brushDef3
+	{
+	}
+	// side 2017
+	brushDef3
+	{
+	}
+	// side 2018
+	brushDef3
+	{
+	}
+	// side 2019
+	brushDef3
+	{
+	}
+// primitive 2020
+{
+	// side 2021
+	brushDef3
+	{
+	}
+	// side 2022
+	brushDef3
+	{
+	}
+	// side 2023
+	brushDef3
+	{
+	}
+	// side 2024
+	brushDef3
+	{
+	}
+	// side 2025
+	brushDef3
+	{
+	}
+	// side 2026
+	brushDef3
+	{
+	}
+	// side 2027
+	brushDef3
+	{
+	}
+	// side 2028
+	brushDef3
+	{
+	}
+// primitive 2029
+{
+	// side 2030
+	brushDef3
+	{
+	}
+	// side 2031
+	brushDef3
+	{
+	}
+	// side 2032
+	brushDef3
+	{
+	}
+	// side 2033
+	brushDef3
+	{
+	}
+	// side 2034
+	brushDef3
+	{
+	}
+	// side 2035
+	brushDef3
+	{
+	}
+// primitive 2036
+{
+	// side 2037
+	brushDef3
+	{
+	}
+	// side 2038
+	brushDef3
+	{
+	}
+	// side 2039
+	brushDef3
+	{
+	}
+	// side 2040
+	brushDef3
+	{
+	}
+	// side 2041
+	brushDef3
+	{
+	}
+// primitive 2042
+{
+	// side 2043
+	brushDef3
+	{
+	}
+	// side 2044
+	brushDef3
+	{
+	}
+	// side 2045
+	brushDef3
+	{
+	}
+	// side 2046
+	brushDef3
+	{
+	}
+	// side 2047
+	brushDef3
+	{
+	}
+	// side 2048
+	brushDef3
+	{
+	}
+// primitive 2049
+{
+	// side 2050
+	brushDef3
+	{
+	}
+	// side 2051
+	brushDef3
+	{
+	}
+	// side 2052
+	brushDef3
+	{
+	}
+	// side 2053
+	brushDef3
+	{
+	}
+	// side 2054
+	brushDef3
+	{
+	}
+	// side 2055
+	brushDef3
+	{
+	}
+// primitive 2056
+{
+	// side 2057
+	brushDef3
+	{
+	}
+	// side 2058
+	brushDef3
+	{
+	}
+	// side 2059
+	brushDef3
+	{
+	}
+	// side 2060
+	brushDef3
+	{
+	}
+	// side 2061
+	brushDef3
+	{
+	}
+	// side 2062
+	brushDef3
+	{
+	}
+// primitive 2063
+{
+	// side 2064
+	brushDef3
+	{
+	}
+	// side 2065
+	brushDef3
+	{
+	}
+	// side 2066
+	brushDef3
+	{
+	}
+	// side 2067
+	brushDef3
+	{
+	}
+	// side 2068
+	brushDef3
+	{
+	}
+	// side 2069
+	brushDef3
+	{
+	}
+// primitive 2070
+{
+	// side 2071
+	brushDef3
+	{
+	}
+	// side 2072
+	brushDef3
+	{
+	}
+	// side 2073
+	brushDef3
+	{
+	}
+	// side 2074
+	brushDef3
+	{
+	}
+	// side 2075
+	brushDef3
+	{
+	}
+	// side 2076
+	brushDef3
+	{
+	}
+// primitive 2077
+{
+	// side 2078
+	brushDef3
+	{
+	}
+	// side 2079
+	brushDef3
+	{
+	}
+	// side 2080
+	brushDef3
+	{
+	}
+	// side 2081
+	brushDef3
+	{
+	}
+	// side 2082
+	brushDef3
+	{
+	}
+	// side 2083
+	brushDef3
+	{
+	}
+// primitive 2084
+{
+	// side 2085
+	brushDef3
+	{
+	}
+	// side 2086
+	brushDef3
+	{
+	}
+	// side 2087
+	brushDef3
+	{
+	}
+	// side 2088
+	brushDef3
+	{
+	}
+	// side 2089
+	brushDef3
+	{
+	}
+	// side 2090
+	brushDef3
+	{
+	}
+// primitive 2091
+{
+	// side 2092
+	brushDef3
+	{
+	}
+	// side 2093
+	brushDef3
+	{
+	}
+	// side 2094
+	brushDef3
+	{
+	}
+	// side 2095
+	brushDef3
+	{
+	}
+	// side 2096
+	brushDef3
+	{
+	}
+	// side 2097
+	brushDef3
+	{
+	}
+	// side 2098
+	brushDef3
+	{
+	}
+// primitive 2099
+{
+	// side 2100
+	brushDef3
+	{
+	}
+	// side 2101
+	brushDef3
+	{
+	}
+	// side 2102
+	brushDef3
+	{
+	}
+	// side 2103
+	brushDef3
+	{
+	}
+	// side 2104
+	brushDef3
+	{
+	}
+// primitive 2105
+{
+	// side 2106
+	brushDef3
+	{
+	}
+	// side 2107
+	brushDef3
+	{
+	}
+	// side 2108
+	brushDef3
+	{
+	}
+	// side 2109
+	brushDef3
+	{
+	}
+	// side 2110
+	brushDef3
+	{
+	}
+// primitive 2111
+{
+	// side 2112
+	brushDef3
+	{
+	}
+	// side 2113
+	brushDef3
+	{
+	}
+	// side 2114
+	brushDef3
+	{
+	}
+	// side 2115
+	brushDef3
+	{
+	}
+	// side 2116
+	brushDef3
+	{
+	}
+	// side 2117
+	brushDef3
+	{
+	}
+// primitive 2118
+{
+	// side 2119
+	brushDef3
+	{
+	}
+	// side 2120
+	brushDef3
+	{
+	}
+	// side 2121
+	brushDef3
+	{
+	}
+	// side 2122
+	brushDef3
+	{
+	}
+	// side 2123
+	brushDef3
+	{
+	}
+	// side 2124
+	brushDef3
+	{
+	}
+// primitive 2125
+{
+	// side 2126
+	brushDef3
+	{
+	}
+	// side 2127
+	brushDef3
+	{
+	}
+	// side 2128
+	brushDef3
+	{
+	}
+	// side 2129
+	brushDef3
+	{
+	}
+	// side 2130
+	brushDef3
+	{
+	}
+// primitive 2131
+{
+	// side 2132
+	brushDef3
+	{
+	}
+	// side 2133
+	brushDef3
+	{
+	}
+	// side 2134
+	brushDef3
+	{
+	}
+	// side 2135
+	brushDef3
+	{
+	}
+	// side 2136
+	brushDef3
+	{
+	}
+	// side 2137
+	brushDef3
+	{
+	}
+// primitive 2138
+{
+	// side 2139
+	brushDef3
+	{
+	}
+	// side 2140
+	brushDef3
+	{
+	}
+	// side 2141
+	brushDef3
+	{
+	}
+	// side 2142
+	brushDef3
+	{
+	}
+	// side 2143
+	brushDef3
+	{
+	}
+	// side 2144
+	brushDef3
+	{
+	}
+// primitive 2145
+{
+	// side 2146
+	brushDef3
+	{
+	}
+	// side 2147
+	brushDef3
+	{
+	}
+	// side 2148
+	brushDef3
+	{
+	}
+	// side 2149
+	brushDef3
+	{
+	}
+	// side 2150
+	brushDef3
+	{
+	}
+	// side 2151
+	brushDef3
+	{
+	}
+// primitive 2152
+{
+	// side 2153
+	brushDef3
+	{
+	}
+	// side 2154
+	brushDef3
+	{
+	}
+	// side 2155
+	brushDef3
+	{
+	}
+	// side 2156
+	brushDef3
+	{
+	}
+	// side 2157
+	brushDef3
+	{
+	}
+	// side 2158
+	brushDef3
+	{
+	}
+// primitive 2159
+{
+	// side 2160
+	brushDef3
+	{
+	}
+	// side 2161
+	brushDef3
+	{
+	}
+	// side 2162
+	brushDef3
+	{
+	}
+	// side 2163
+	brushDef3
+	{
+	}
+	// side 2164
+	brushDef3
+	{
+	}
+// primitive 2165
+{
+	// side 2166
+	brushDef3
+	{
+	}
+	// side 2167
+	brushDef3
+	{
+	}
+	// side 2168
+	brushDef3
+	{
+	}
+	// side 2169
+	brushDef3
+	{
+	}
+	// side 2170
+	brushDef3
+	{
+	}
+	// side 2171
+	brushDef3
+	{
+	}
+	// side 2172
+	brushDef3
+	{
+	}
+	// side 2173
+	brushDef3
+	{
+	}
+// primitive 2174
+{
+	// side 2175
+	brushDef3
+	{
+	}
+	// side 2176
+	brushDef3
+	{
+	}
+	// side 2177
+	brushDef3
+	{
+	}
+	// side 2178
+	brushDef3
+	{
+	}
+	// side 2179
+	brushDef3
+	{
+	}
+	// side 2180
+	brushDef3
+	{
+	}
+// primitive 2181
+{
+	// side 2182
+	brushDef3
+	{
+	}
+	// side 2183
+	brushDef3
+	{
+	}
+	// side 2184
+	brushDef3
+	{
+	}
+	// side 2185
+	brushDef3
+	{
+	}
+	// side 2186
+	brushDef3
+	{
+	}
+	// side 2187
+	brushDef3
+	{
+	}
+// primitive 2188
+{
+	// side 2189
+	brushDef3
+	{
+	}
+	// side 2190
+	brushDef3
+	{
+	}
+	// side 2191
+	brushDef3
+	{
+	}
+	// side 2192
+	brushDef3
+	{
+	}
+	// side 2193
+	brushDef3
+	{
+	}
+	// side 2194
+	brushDef3
+	{
+	}
+// primitive 2195
+{
+	// side 2196
+	brushDef3
+	{
+	}
+	// side 2197
+	brushDef3
+	{
+	}
+	// side 2198
+	brushDef3
+	{
+	}
+	// side 2199
+	brushDef3
+	{
+	}
+	// side 2200
+	brushDef3
+	{
+	}
+	// side 2201
+	brushDef3
+	{
+	}
+	// side 2202
+	brushDef3
+	{
+	}
+// primitive 2203
+{
+	// side 2204
+	brushDef3
+	{
+	}
+	// side 2205
+	brushDef3
+	{
+	}
+	// side 2206
+	brushDef3
+	{
+	}
+	// side 2207
+	brushDef3
+	{
+	}
+	// side 2208
+	brushDef3
+	{
+	}
+	// side 2209
+	brushDef3
+	{
+	}
+// primitive 2210
+{
+	// side 2211
+	brushDef3
+	{
+	}
+	// side 2212
+	brushDef3
+	{
+	}
+	// side 2213
+	brushDef3
+	{
+	}
+	// side 2214
+	brushDef3
+	{
+	}
+	// side 2215
+	brushDef3
+	{
+	}
+	// side 2216
+	brushDef3
+	{
+	}
+// primitive 2217
+{
+	// side 2218
+	brushDef3
+	{
+	}
+	// side 2219
+	brushDef3
+	{
+	}
+	// side 2220
+	brushDef3
+	{
+	}
+	// side 2221
+	brushDef3
+	{
+	}
+	// side 2222
+	brushDef3
+	{
+	}
+	// side 2223
+	brushDef3
+	{
+	}
+// primitive 2224
+{
+	// side 2225
+	brushDef3
+	{
+	}
+	// side 2226
+	brushDef3
+	{
+	}
+	// side 2227
+	brushDef3
+	{
+	}
+	// side 2228
+	brushDef3
+	{
+	}
+	// side 2229
+	brushDef3
+	{
+	}
+	// side 2230
+	brushDef3
+	{
+	}
+// primitive 2231
+{
+	// side 2232
+	brushDef3
+	{
+	}
+	// side 2233
+	brushDef3
+	{
+	}
+	// side 2234
+	brushDef3
+	{
+	}
+	// side 2235
+	brushDef3
+	{
+	}
+	// side 2236
+	brushDef3
+	{
+	}
+	// side 2237
+	brushDef3
+	{
+	}
+// primitive 2238
+{
+	// side 2239
+	brushDef3
+	{
+	}
+	// side 2240
+	brushDef3
+	{
+	}
+	// side 2241
+	brushDef3
+	{
+	}
+	// side 2242
+	brushDef3
+	{
+	}
+	// side 2243
+	brushDef3
+	{
+	}
+	// side 2244
+	brushDef3
+	{
+	}
+	// side 2245
+	brushDef3
+	{
+	}
+	// side 2246
+	brushDef3
+	{
+	}
+// primitive 2247
+{
+	// side 2248
+	brushDef3
+	{
+	}
+	// side 2249
+	brushDef3
+	{
+	}
+	// side 2250
+	brushDef3
+	{
+	}
+	// side 2251
+	brushDef3
+	{
+	}
+	// side 2252
+	brushDef3
+	{
+	}
+	// side 2253
+	brushDef3
+	{
+	}
+// primitive 2254
+{
+	// side 2255
+	brushDef3
+	{
+	}
+	// side 2256
+	brushDef3
+	{
+	}
+	// side 2257
+	brushDef3
+	{
+	}
+	// side 2258
+	brushDef3
+	{
+	}
+	// side 2259
+	brushDef3
+	{
+	}
+	// side 2260
+	brushDef3
+	{
+	}
+	// side 2261
+	brushDef3
+	{
+	}
+	// side 2262
+	brushDef3
+	{
+	}
+// primitive 2263
+{
+	// side 2264
+	brushDef3
+	{
+	}
+	// side 2265
+	brushDef3
+	{
+	}
+	// side 2266
+	brushDef3
+	{
+	}
+	// side 2267
+	brushDef3
+	{
+	}
+	// side 2268
+	brushDef3
+	{
+	}
+	// side 2269
+	brushDef3
+	{
+	}
+	// side 2270
+	brushDef3
+	{
+	}
+	// side 2271
+	brushDef3
+	{
+	}
+// primitive 2272
+{
+	// side 2273
+	brushDef3
+	{
+	}
+	// side 2274
+	brushDef3
+	{
+	}
+	// side 2275
+	brushDef3
+	{
+	}
+	// side 2276
+	brushDef3
+	{
+	}
+	// side 2277
+	brushDef3
+	{
+	}
+	// side 2278
+	brushDef3
+	{
+	}
+// primitive 2279
+{
+	// side 2280
+	brushDef3
+	{
+	}
+	// side 2281
+	brushDef3
+	{
+	}
+	// side 2282
+	brushDef3
+	{
+	}
+	// side 2283
+	brushDef3
+	{
+	}
+	// side 2284
+	brushDef3
+	{
+	}
+	// side 2285
+	brushDef3
+	{
+	}
+// primitive 2286
+{
+	// side 2287
+	brushDef3
+	{
+	}
+	// side 2288
+	brushDef3
+	{
+	}
+	// side 2289
+	brushDef3
+	{
+	}
+	// side 2290
+	brushDef3
+	{
+	}
+	// side 2291
+	brushDef3
+	{
+	}
+	// side 2292
+	brushDef3
+	{
+	}
+	// side 2293
+	brushDef3
+	{
+	}
+	// side 2294
+	brushDef3
+	{
+	}
+// primitive 2295
+{
+	// side 2296
+	brushDef3
+	{
+	}
+	// side 2297
+	brushDef3
+	{
+	}
+	// side 2298
+	brushDef3
+	{
+	}
+	// side 2299
+	brushDef3
+	{
+	}
+	// side 2300
+	brushDef3
+	{
+	}
+	// side 2301
+	brushDef3
+	{
+	}
+// primitive 2302
+{
+	// side 2303
+	brushDef3
+	{
+	}
+	// side 2304
+	brushDef3
+	{
+	}
+	// side 2305
+	brushDef3
+	{
+	}
+	// side 2306
+	brushDef3
+	{
+	}
+	// side 2307
+	brushDef3
+	{
+	}
+	// side 2308
+	brushDef3
+	{
+	}
+// primitive 2309
+{
+	// side 2310
+	brushDef3
+	{
+	}
+	// side 2311
+	brushDef3
+	{
+	}
+	// side 2312
+	brushDef3
+	{
+	}
+	// side 2313
+	brushDef3
+	{
+	}
+	// side 2314
+	brushDef3
+	{
+	}
+	// side 2315
+	brushDef3
+	{
+	}
+// primitive 2316
+{
+	// side 2317
+	brushDef3
+	{
+	}
+	// side 2318
+	brushDef3
+	{
+	}
+	// side 2319
+	brushDef3
+	{
+	}
+	// side 2320
+	brushDef3
+	{
+	}
+	// side 2321
+	brushDef3
+	{
+	}
+	// side 2322
+	brushDef3
+	{
+	}
+// primitive 2323
+{
+	// side 2324
+	brushDef3
+	{
+	}
+	// side 2325
+	brushDef3
+	{
+	}
+	// side 2326
+	brushDef3
+	{
+	}
+	// side 2327
+	brushDef3
+	{
+	}
+	// side 2328
+	brushDef3
+	{
+	}
+	// side 2329
+	brushDef3
+	{
+	}
+// primitive 2330
+{
+	// side 2331
+	brushDef3
+	{
+	}
+	// side 2332
+	brushDef3
+	{
+	}
+	// side 2333
+	brushDef3
+	{
+	}
+	// side 2334
+	brushDef3
+	{
+	}
+	// side 2335
+	brushDef3
+	{
+	}
+	// side 2336
+	brushDef3
+	{
+	}
+// primitive 2337
+{
+	// side 2338
+	brushDef3
+	{
+	}
+	// side 2339
+	brushDef3
+	{
+	}
+	// side 2340
+	brushDef3
+	{
+	}
+	// side 2341
+	brushDef3
+	{
+	}
+	// side 2342
+	brushDef3
+	{
+	}
+	// side 2343
+	brushDef3
+	{
+	}
+// primitive 2344
+{
+	// side 2345
+	brushDef3
+	{
+	}
+	// side 2346
+	brushDef3
+	{
+	}
+	// side 2347
+	brushDef3
+	{
+	}
+	// side 2348
+	brushDef3
+	{
+	}
+	// side 2349
+	brushDef3
+	{
+	}
+	// side 2350
+	brushDef3
+	{
+	}
+// primitive 2351
+{
+	// side 2352
+	brushDef3
+	{
+	}
+	// side 2353
+	brushDef3
+	{
+	}
+	// side 2354
+	brushDef3
+	{
+	}
+	// side 2355
+	brushDef3
+	{
+	}
+	// side 2356
+	brushDef3
+	{
+	}
+	// side 2357
+	brushDef3
+	{
+	}
+// primitive 2358
+{
+	// side 2359
+	brushDef3
+	{
+	}
+	// side 2360
+	brushDef3
+	{
+	}
+	// side 2361
+	brushDef3
+	{
+	}
+	// side 2362
+	brushDef3
+	{
+	}
+	// side 2363
+	brushDef3
+	{
+	}
+	// side 2364
+	brushDef3
+	{
+	}
+// primitive 2365
+{
+	// side 2366
+	brushDef3
+	{
+	}
+	// side 2367
+	brushDef3
+	{
+	}
+	// side 2368
+	brushDef3
+	{
+	}
+	// side 2369
+	brushDef3
+	{
+	}
+	// side 2370
+	brushDef3
+	{
+	}
+	// side 2371
+	brushDef3
+	{
+	}
+	// side 2372
+	brushDef3
+	{
+	}
+	// side 2373
+	brushDef3
+	{
+	}
+// primitive 2374
+{
+	// side 2375
+	brushDef3
+	{
+	}
+	// side 2376
+	brushDef3
+	{
+	}
+	// side 2377
+	brushDef3
+	{
+	}
+	// side 2378
+	brushDef3
+	{
+	}
+	// side 2379
+	brushDef3
+	{
+	}
+	// side 2380
+	brushDef3
+	{
+	}
+	// side 2381
+	brushDef3
+	{
+	}
+// primitive 2382
+{
+	// side 2383
+	brushDef3
+	{
+	}
+	// side 2384
+	brushDef3
+	{
+	}
+	// side 2385
+	brushDef3
+	{
+	}
+	// side 2386
+	brushDef3
+	{
+	}
+	// side 2387
+	brushDef3
+	{
+	}
+	// side 2388
+	brushDef3
+	{
+	}
+// primitive 2389
+{
+	// side 2390
+	brushDef3
+	{
+	}
+	// side 2391
+	brushDef3
+	{
+	}
+	// side 2392
+	brushDef3
+	{
+	}
+	// side 2393
+	brushDef3
+	{
+	}
+	// side 2394
+	brushDef3
+	{
+	}
+	// side 2395
+	brushDef3
+	{
+	}
+	// side 2396
+	brushDef3
+	{
+	}
+// primitive 2397
+{
+	// side 2398
+	brushDef3
+	{
+	}
+	// side 2399
+	brushDef3
+	{
+	}
+	// side 2400
+	brushDef3
+	{
+	}
+	// side 2401
+	brushDef3
+	{
+	}
+	// side 2402
+	brushDef3
+	{
+	}
+	// side 2403
+	brushDef3
+	{
+	}
+// primitive 2404
+{
+	// side 2405
+	brushDef3
+	{
+	}
+	// side 2406
+	brushDef3
+	{
+	}
+	// side 2407
+	brushDef3
+	{
+	}
+	// side 2408
+	brushDef3
+	{
+	}
+	// side 2409
+	brushDef3
+	{
+	}
+	// side 2410
+	brushDef3
+	{
+	}
+// primitive 2411
+{
+	// side 2412
+	brushDef3
+	{
+	}
+	// side 2413
+	brushDef3
+	{
+	}
+	// side 2414
+	brushDef3
+	{
+	}
+	// side 2415
+	brushDef3
+	{
+	}
+	// side 2416
+	brushDef3
+	{
+	}
+	// side 2417
+	brushDef3
+	{
+	}
+// primitive 2418
+{
+	// side 2419
+	brushDef3
+	{
+	}
+	// side 2420
+	brushDef3
+	{
+	}
+	// side 2421
+	brushDef3
+	{
+	}
+	// side 2422
+	brushDef3
+	{
+	}
+	// side 2423
+	brushDef3
+	{
+	}
+	// side 2424
+	brushDef3
+	{
+	}
+// primitive 2425
+{
+	// side 2426
+	brushDef3
+	{
+	}
+	// side 2427
+	brushDef3
+	{
+	}
+	// side 2428
+	brushDef3
+	{
+	}
+	// side 2429
+	brushDef3
+	{
+	}
+	// side 2430
+	brushDef3
+	{
+	}
+	// side 2431
+	brushDef3
+	{
+	}
+// primitive 2432
+{
+	// side 2433
+	brushDef3
+	{
+	}
+	// side 2434
+	brushDef3
+	{
+	}
+	// side 2435
+	brushDef3
+	{
+	}
+	// side 2436
+	brushDef3
+	{
+	}
+	// side 2437
+	brushDef3
+	{
+	}
+	// side 2438
+	brushDef3
+	{
+	}
+// primitive 2439
+{
+	// side 2440
+	brushDef3
+	{
+	}
+	// side 2441
+	brushDef3
+	{
+	}
+	// side 2442
+	brushDef3
+	{
+	}
+	// side 2443
+	brushDef3
+	{
+	}
+	// side 2444
+	brushDef3
+	{
+	}
+	// side 2445
+	brushDef3
+	{
+	}
+// primitive 2446
+{
+	// side 2447
+	brushDef3
+	{
+	}
+	// side 2448
+	brushDef3
+	{
+	}
+	// side 2449
+	brushDef3
+	{
+	}
+	// side 2450
+	brushDef3
+	{
+	}
+	// side 2451
+	brushDef3
+	{
+	}
+	// side 2452
+	brushDef3
+	{
+	}
+// primitive 2453
+{
+	// side 2454
+	brushDef3
+	{
+	}
+	// side 2455
+	brushDef3
+	{
+	}
+	// side 2456
+	brushDef3
+	{
+	}
+	// side 2457
+	brushDef3
+	{
+	}
+	// side 2458
+	brushDef3
+	{
+	}
+	// side 2459
+	brushDef3
+	{
+	}
+// primitive 2460
+{
+	// side 2461
+	brushDef3
+	{
+	}
+	// side 2462
+	brushDef3
+	{
+	}
+	// side 2463
+	brushDef3
+	{
+	}
+	// side 2464
+	brushDef3
+	{
+	}
+	// side 2465
+	brushDef3
+	{
+	}
+	// side 2466
+	brushDef3
+	{
+	}
+// primitive 2467
+{
+	// side 2468
+	brushDef3
+	{
+	}
+	// side 2469
+	brushDef3
+	{
+	}
+	// side 2470
+	brushDef3
+	{
+	}
+	// side 2471
+	brushDef3
+	{
+	}
+	// side 2472
+	brushDef3
+	{
+	}
+	// side 2473
+	brushDef3
+	{
+	}
+// primitive 2474
+{
+	// side 2475
+	brushDef3
+	{
+	}
+	// side 2476
+	brushDef3
+	{
+	}
+	// side 2477
+	brushDef3
+	{
+	}
+	// side 2478
+	brushDef3
+	{
+	}
+	// side 2479
+	brushDef3
+	{
+	}
+	// side 2480
+	brushDef3
+	{
+	}
+// primitive 2481
+{
+	// side 2482
+	brushDef3
+	{
+	}
+	// side 2483
+	brushDef3
+	{
+	}
+	// side 2484
+	brushDef3
+	{
+	}
+	// side 2485
+	brushDef3
+	{
+	}
+	// side 2486
+	brushDef3
+	{
+	}
+	// side 2487
+	brushDef3
+	{
+	}
+// primitive 2488
+{
+	// side 2489
+	brushDef3
+	{
+	}
+	// side 2490
+	brushDef3
+	{
+	}
+	// side 2491
+	brushDef3
+	{
+	}
+	// side 2492
+	brushDef3
+	{
+	}
+	// side 2493
+	brushDef3
+	{
+	}
+	// side 2494
+	brushDef3
+	{
+	}
+// primitive 2495
+{
+	// side 2496
+	brushDef3
+	{
+	}
+	// side 2497
+	brushDef3
+	{
+	}
+	// side 2498
+	brushDef3
+	{
+	}
+	// side 2499
+	brushDef3
+	{
+	}
+	// side 2500
+	brushDef3
+	{
+	}
+	// side 2501
+	brushDef3
+	{
+	}
+// primitive 2502
+{
+	// side 2503
+	brushDef3
+	{
+	}
+	// side 2504
+	brushDef3
+	{
+	}
+	// side 2505
+	brushDef3
+	{
+	}
+	// side 2506
+	brushDef3
+	{
+	}
+	// side 2507
+	brushDef3
+	{
+	}
+	// side 2508
+	brushDef3
+	{
+	}
+// primitive 2509
+{
+	// side 2510
+	brushDef3
+	{
+	}
+	// side 2511
+	brushDef3
+	{
+	}
+	// side 2512
+	brushDef3
+	{
+	}
+	// side 2513
+	brushDef3
+	{
+	}
+	// side 2514
+	brushDef3
+	{
+	}
+	// side 2515
+	brushDef3
+	{
+	}
+// primitive 2516
+{
+	// side 2517
+	brushDef3
+	{
+	}
+	// side 2518
+	brushDef3
+	{
+	}
+	// side 2519
+	brushDef3
+	{
+	}
+	// side 2520
+	brushDef3
+	{
+	}
+	// side 2521
+	brushDef3
+	{
+	}
+	// side 2522
+	brushDef3
+	{
+	}
+// primitive 2523
+{
+	// side 2524
+	brushDef3
+	{
+	}
+	// side 2525
+	brushDef3
+	{
+	}
+	// side 2526
+	brushDef3
+	{
+	}
+	// side 2527
+	brushDef3
+	{
+	}
+	// side 2528
+	brushDef3
+	{
+	}
+	// side 2529
+	brushDef3
+	{
+	}
+// primitive 2530
+{
+	// side 2531
+	brushDef3
+	{
+	}
+	// side 2532
+	brushDef3
+	{
+	}
+	// side 2533
+	brushDef3
+	{
+	}
+	// side 2534
+	brushDef3
+	{
+	}
+	// side 2535
+	brushDef3
+	{
+	}
+	// side 2536
+	brushDef3
+	{
+	}
+// primitive 2537
+{
+	// side 2538
+	brushDef3
+	{
+	}
+	// side 2539
+	brushDef3
+	{
+	}
+	// side 2540
+	brushDef3
+	{
+	}
+	// side 2541
+	brushDef3
+	{
+	}
+	// side 2542
+	brushDef3
+	{
+	}
+	// side 2543
+	brushDef3
+	{
+	}
+// primitive 2544
+{
+	// side 2545
+	brushDef3
+	{
+	}
+	// side 2546
+	brushDef3
+	{
+	}
+	// side 2547
+	brushDef3
+	{
+	}
+	// side 2548
+	brushDef3
+	{
+	}
+	// side 2549
+	brushDef3
+	{
+	}
+	// side 2550
+	brushDef3
+	{
+	}
+// primitive 2551
+{
+	// side 2552
+	brushDef3
+	{
+	}
+	// side 2553
+	brushDef3
+	{
+	}
+	// side 2554
+	brushDef3
+	{
+	}
+	// side 2555
+	brushDef3
+	{
+	}
+	// side 2556
+	brushDef3
+	{
+	}
+	// side 2557
+	brushDef3
+	{
+	}
+}

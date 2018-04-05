@@ -1,38 +1,31 @@
-const fs = require('fs');
+const vmf2json = require('./vmf2json');
+const generatemap = require('./generatemap');
 
-const test = {
-	get getid() {
-		return ~~(Math.random() * 10);
+{
+	console.info('#'.repeat(34));
+	console.info('Half Life 2 =TO=> DooM 3 Converter');
+	console.info('  ------- By  PROPHESSOR -------  ');
+	console.info('#'.repeat(34));
+	console.log('\n\n');
+
+	try {
+		console.log("Converting VMF -> JSON...");
+		vmf2json();
+
+		console.log("Convert successful!")
+	} catch (e) {
+		console.error("\n\n\n[FATAL ERROR]: Failed to convert VMF -> JSON!\n\n\n");
+		console.error(e);
 	}
+
+	try {
+		console.log("Generating DooM 3 .map file...");
+		generatemap();
+
+		console.log("Generate successful!")
+	} catch (e) {
+		console.error("\n\n\n[FATAL ERROR]: Failed to generate DooM 3 .map file!\n\n\n");
+		console.error(e);
+	}
+
 }
-
-function main() {
-	const file = fs.readFileSync('./background01.vmf', 'utf8');
-
-	const outfile = file
-		// .replace(/(world)\s+/g, '"$1": ')
-		.replace(/world\s+/g, '')
-		.replace(/\n{/g, ' {')
-		.replace(/\n\s*(solid|side|connections)/g, ',\n')
-		.replace(/"\n(\s*)"/g, '",\n$1"')
-		.replace(/"\s+"/g, '": "')
-		.replace(/",\n(\s*){/g, '",\n$1"array": [\n$1\t{')
-		.replace(/}\n(\s*)}/g, '}\n$1\t]\n$1}')
-		.replace(/}\n\s*entity/, ']}\n\n================\n\nentity')
-
-	const outfile1 = outfile.split(/=+/)[0];
-	const outfile2 = "[\n" + outfile.split(/=+/)[1]
-		.replace(/entity/g, '')
-		.replace(/}\n\s*{/g, '},\n{')
-		
-		// .replace(/{\n(\s*)"OnTrigger": /g, '')
-		// .replace(/"OnTrigger": "(.+)",\n(\s*)}/g, '"$2",\n$2]\n$2}')
-		// .replace(/"OnTrigger": /g, '')
-		// .replace(/^(\s*"[\w_,\d-]+",?)\n\s*}/g, '$1\n')
-		+ "\n]"
-
-	fs.writeFileSync('./background01.json', outfile1, 'utf8');
-	fs.writeFileSync('./background01-entities.json', outfile2, 'utf8');
-}
-
-main();
