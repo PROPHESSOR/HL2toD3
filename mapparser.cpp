@@ -49,17 +49,19 @@ int main() {
 
     cout << "header.ident:\t\t"       << header.ident       << endl;
     cout << "header.version:\t\t"     << header.version     << endl;
+    cout << "header.mapRevision:\t"   << header.mapRevision << endl;
 
-    cout << "header.lumps[0]:"                              << endl;
+    cout << "header.lumps[]:"                              << endl;
     
     for(short i = 0; i < HEADER_LUMPS; i++) {
+        if(header.lumps[i].fileofs == 0 && header.lumps[i].filelen == 0) continue; // TODO: May be break?
+
         cout << "\t\t\t" << i << ":" << endl;
         cout << "\t\t\t\tfileofs:\t\t" << header.lumps[i].fileofs << endl;
         cout << "\t\t\t\tfilelen:\t\t" << header.lumps[i].filelen << endl;
         cout << "\t\t\t\tversion:\t\t" << header.lumps[i].version << endl;
     }
 
-    cout << "header.mapRevision:\t"   << header.mapRevision << endl;
 
     cout << COLOR_RESET;
 
