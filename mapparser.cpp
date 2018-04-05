@@ -1,6 +1,7 @@
 #include <fstream>
 #include <iostream>
 
+#include "config.h"
 #include "utils.cpp"
 
 using namespace std;
@@ -75,7 +76,9 @@ int main() {
         infile.read((char *)&header, sizeof(header));
     infile.close();
 
-    header_test();
+    #ifdef D_SHOW_HEADER
+        header_test();
+    #endif
 
     cout << COLOR_YELLOW << "Exit!" << COLOR_RESET << endl;
 
