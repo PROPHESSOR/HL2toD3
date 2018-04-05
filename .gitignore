@@ -1,2 +1,4 @@
 # Test HL2 maps
 /testdata
+/*.vmf
+/*.json
