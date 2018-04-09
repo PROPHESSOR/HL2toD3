@@ -1,8 +1,9 @@
 const fs = require('fs');
+const FILENAME = 'background01';
 
 
 module.exports = () => {
-	const file = fs.readFileSync('./background01.vmf', 'utf8');
+	const file = fs.readFileSync(`./${FILENAME}.vmf`, 'utf8');
 
 	const outfile = file
 		// .replace(/(world)\s+/g, '"$1": ')
@@ -26,6 +27,6 @@ module.exports = () => {
 		// .replace(/^(\s*"[\w_,\d-]+",?)\n\s*}/g, '$1\n')
 		+ "\n]"
 
-	fs.writeFileSync('./background01.json', outfile1, 'utf8');
-	fs.writeFileSync('./background01-entities.json', outfile2, 'utf8');
+	fs.writeFileSync(`./${FILENAME}.json`, outfile1, 'utf8');
+	fs.writeFileSync(`./${FILENAME}-entities.json`, outfile2, 'utf8');
 }

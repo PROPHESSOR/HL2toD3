@@ -1,3 +1,5 @@
+const FILENAME = 'background01';
+
 const fs = require('fs');
 
 class Vec3 {
@@ -11,7 +13,7 @@ class Vec3 {
         const [x, y, z] = this;
         const {length} = this;
 
-        if(!length) return [x, y, z];
+        if(!length) return this;
 
         return new Vec3(x / length, y / length, z / length);
     }
@@ -75,9 +77,9 @@ function convertVec3ToPlaneEquation(vec1, vec2, vec3) {
 function calculateLengthNormalToPlane(equation) {
     const [A, B, C, D] = equation;
     const normal = (new Vec3(A, B, C)).normalize();
-    console.log(`equation: `, A, B, C, D);
-    console.log(`normal: `, ...normal);
-    console.log(`length: `, normal.length);
+    // console.log(`equation: `, A, B, C, D);
+    // console.log(`normal: `, ...normal);
+    // console.log(`length: `, normal.length);
     return D
         /
         normal.length;
@@ -112,7 +114,8 @@ function hardcodePlayerStart() {
 }
 
 module.exports = () => {
-    const json = require('./background01.json');
+    debugger;
+    const json = require(`./${FILENAME}.json`);
 
     let out = '';
 
@@ -143,5 +146,5 @@ module.exports = () => {
 
     // console.log(out);
 
-    fs.writeFileSync('background01.map', out, 'utf8');
+    fs.writeFileSync(`${FILENAME}.map`, out, 'utf8');
 }
