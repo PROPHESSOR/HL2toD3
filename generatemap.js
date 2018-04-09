@@ -7,6 +7,26 @@ class Vec3 {
         this.z = z;
     }
 
+    normalize() {
+        const [x, y, z] = this;
+        const {length} = this;
+
+        if(!length) return [x, y, z];
+
+        return new Vec3(x / length, y / length, z / length);
+    }
+
+    selfnormalize() {
+        this.x = this.x / this.length;
+        this.y = this.y / this.length;
+        this.z = this.z / this.length;
+    }
+
+    get length() {
+        const [x, y, z] = this;
+        return Math.sqrt(x ** 2 + y ** 2 + z ** 2);
+    }
+
     *[Symbol.iterator]() {
         yield this.x;
         yield this.y;
@@ -46,6 +66,21 @@ function convertVec3ToPlaneEquation(vec1, vec2, vec3) {
     const D =-(x1 * (y2 * z3 - y3 * z2) + x2 * (y3 * z1 - y1 * z3) + x3 * (y1 * z2 - y2 * z1));
 
     return [A, B, C, D];
+}
+
+/** Рассчитывает растояние (нормали) от 0 до плоскости
+ * @param  {array} equation - Вывод функции convertVec3ToPlaneEquation
+ * @returns {number} - Растояние
+ */
+function calculateLengthNormalToPlane(equation) {
+    const [A, B, C, D] = equation;
+    const normal = (new Vec3(A, B, C)).normalize();
+    console.log(`equation: `, A, B, C, D);
+    console.log(`normal: `, ...normal);
+    console.log(`length: `, normal.length);
+    return D
+        /
+        normal.length;
 }
 
 /** Парсит плейн на вектора
@@ -91,11 +126,12 @@ module.exports = () => {
         out += `{\n`;
         out += `\tbrushDef3\n\t{\n`;
         for (const side of solid.array) {
-            // for (const plane of new Array(6)) {
-                const [vec1, vec2, vec3] = parsePlane(side.plane);
-                const equation = convertVec3ToPlaneEquation(vec1, vec2, vec3).join(' ');
-                out += `\t\t( ${equation} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/base_wall/lfwall27d" 0 0 0\n`;
-            // }
+            const [vec1, vec2, vec3] = parsePlane(side.plane);
+            const equation = convertVec3ToPlaneEquation(vec1, vec2, vec3);
+            const length = calculateLengthNormalToPlane(equation);
+            const output = `${equation[0]} ${equation[1]} ${equation[2]} ${length}`; // (normal.x normal.y normal.z length)
+
+            out += `\t\t( ${output} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/base_wall/lfwall27d" 0 0 0\n`;
         }
         out += `\t}\n`;
         out += '}\n';
