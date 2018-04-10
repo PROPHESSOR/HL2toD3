@@ -135,8 +135,9 @@ module.exports = () => {
             // vec3.x += 2000;
             const equation = convertVec3ToPlaneEquation(vec1, vec2, vec3);
             const length = calculateLengthNormalToPlane(equation);
+            const length1 = -Math.sqrt(equation[0]**2 + equation[1]**2 + equation[2]**2);
             const normal = (new Vec3(...equation)).normalize();
-            const output = `${normal.x} ${normal.y} ${normal.z} ${length}`; // (normal.x normal.y normal.z length)
+            const output = `${normal.x} ${normal.y} ${normal.z} ${length1}`; // (normal.x normal.y normal.z length)
 
             out += `\t\t( ${output} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/base_wall/lfwall27d" 0 0 0\n`;
         }
