@@ -130,9 +130,13 @@ module.exports = () => {
         out += `\tbrushDef3\n\t{\n`;
         for (const side of solid.array) {
             const [vec1, vec2, vec3] = parsePlane(side.plane);
+            // vec1.x += 2000;
+            // vec2.x += 2000;
+            // vec3.x += 2000;
             const equation = convertVec3ToPlaneEquation(vec1, vec2, vec3);
             const length = calculateLengthNormalToPlane(equation);
-            const output = `${equation[0]} ${equation[1]} ${equation[2]} ${length}`; // (normal.x normal.y normal.z length)
+            const normal = (new Vec3(...equation)).normalize();
+            const output = `${normal.x} ${normal.y} ${normal.z} ${length}`; // (normal.x normal.y normal.z length)
 
             out += `\t\t( ${output} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/base_wall/lfwall27d" 0 0 0\n`;
         }

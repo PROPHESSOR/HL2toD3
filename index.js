@@ -16,6 +16,7 @@ const generatemap = require('./generatemap');
 	} catch (e) {
 		console.error("\n\n\n[FATAL ERROR]: Failed to convert VMF -> JSON!\n\n\n");
 		console.error(e);
+		return;
 	}
 
 	try {
@@ -26,6 +27,7 @@ const generatemap = require('./generatemap');
 	} catch (e) {
 		console.error("\n\n\n[FATAL ERROR]: Failed to generate DooM 3 .map file!\n\n\n");
 		console.error(e);
+		return;
 	}
 
 }
