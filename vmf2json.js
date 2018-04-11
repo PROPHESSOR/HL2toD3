@@ -8,10 +8,11 @@ module.exports = () => {
     const outfile = file
         // .replace(/(world)\s+/g, '"$1": ')
         .replace(/world\s+/g, '')
+        .replace(/[\x0d]/g, '')
         .replace(/\n{/g, ' {')
         .replace(/\n\s*(solid|side|connections)/g, ',\n')
-        .replace(/"\n(\s*)"/g, '",\n$1"')
-        .replace(/"\s+"/g, '": "')
+        .replace(/" +"/g, '": "')
+        .replace(/"\n(\s+)"/g, '",\n$1"')
         .replace(/",\n(\s*){/g, '",\n$1"array": [\n$1\t{')
         .replace(/}\n(\s*)}/g, '}\n$1\t]\n$1}')
         // .replace(/}\n(\s*)}/g, '}\n$1\t]\n$1}')
