@@ -2,9 +2,20 @@ from OpenGL.GL import *
 from OpenGL.GLU import *
 from OpenGL.GLUT import *
 
+import json
+
+def readVertexesFromJSON():
+    global vertexes
+
+    file = open('background01.parsed')
+    data = file.read()
+    vertexes = json.loads(data)
+    #print(vertexes[0])
+
+
 def init():
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB)
-    glutInitWindowSize(300, 300)
+    glutInitWindowSize(1024, 768)
     glutInitWindowPosition(50, 50)
     glutInit(sys.argv)
     glutCreateWindow(b"Simple visualizer!")
@@ -13,17 +24,19 @@ def init():
 def start():
     global xrot
     global yrot
+    global scale
     global ambient
     global greencolor
     global treecolor
     global lightpos
 
-    global vertexes
+    #global vertexes
 
-    vertexes = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]
+    #vertexes = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]
 
     xrot = 0.0
     yrot = 0.0
+    scale = 1.0
     ambient = (1.0, 1.0, 1.0, 1) # rgb bright
     greencolor = (0.2, 0.8, 0.0, 0.8)
     treecolor = (0.9, 0.6, 0.3, 0.8)
@@ -42,6 +55,7 @@ def start():
 def keyboard(key, x, y):
     global xrot
     global yrot
+    global scale
 
     if key == GLUT_KEY_UP:
         xrot -= 2.0
@@ -51,6 +65,12 @@ def keyboard(key, x, y):
         yrot -= 2.0
     if key == GLUT_KEY_RIGHT:
         yrot += 2.0
+    if key == 112:
+        scale += 2.0
+    if key == 114:
+        scale -= 2.0
+
+    #print key
 
     glutPostRedisplay() # repaint
 
@@ -70,12 +90,12 @@ def draw():
     glRotatef(yrot, 0.0, 1.0, 0.0)
     glLightfv(GL_LIGHT0, GL_POSITION, lightpos)
 
-    glMaterialfv(GL_FRONT_AND_BACK, GL_DIFFUSE, treecolor)
+    #glMaterialfv(GL_FRONT_AND_BACK, GL_DIFFUSE, treecolor)
     #glTranslatef(0.0, 0.0, -0.7)
 
     #glutSolidCylinder(0.1, 0.2, 20, 20)
 
-    #glMaterialfv(GL_FRONT_AND_BACK, GL_DIFFUSE, greencolor)
+    glMaterialfv(GL_FRONT_AND_BACK, GL_DIFFUSE, greencolor)
     #glTranslatef(0.0, 0.0, 0.2)
 
     #glutSolidCone(0.5, 0.5, 20, 20)
@@ -92,8 +112,10 @@ def draw():
     glDisableClientState(GL_VERTEX_ARRAY)
 
     glPopMatrix()
+    glScale(scale, scale, scale)
     glutSwapBuffers()
 
+readVertexesFromJSON()
 
 init()
 
