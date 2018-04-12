@@ -1,5 +1,3 @@
-const FILENAME = 'background01';
-
 const fs = require('fs');
 
 class Vec3 {
@@ -113,7 +111,7 @@ function hardcodePlayerStart() {
 }`
 }
 
-module.exports = () => {
+module.exports = (FILENAME) => {
     debugger;
     const json = require(`./${FILENAME}.json`);
 

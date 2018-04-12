@@ -1,8 +1,6 @@
 const fs = require('fs');
-const FILENAME = 'background01';
 
-
-module.exports = () => {
+module.exports = (FILENAME) => {
     const file = fs.readFileSync(`./${FILENAME}.vmf`, 'utf8');
 
     const outfile = file
@@ -15,7 +13,7 @@ module.exports = () => {
         .replace(/"\n(\s+)"/g, '",\n$1"')
         .replace(/",\n(\s*){/g, '",\n$1"array": [\n$1\t{')
         .replace(/}\n(\s*)}/g, '}\n$1\t]\n$1}')
-        // .replace(/}\n(\s*)}/g, '}\n$1\t]\n$1}')
+        .replace(/}\n(\s*)}/g, '}\n$1\t]\n$1}')
         .replace(/editor\n\s*{[\n\s\S]+?}/g, '') // Избавление от поля editor
         .replace(/}\n+\s*entity/, ']}\n\n================\n\nentity')
         

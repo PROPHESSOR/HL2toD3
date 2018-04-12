@@ -1,6 +1,8 @@
 const vmf2json = require('./vmf2json');
 const generatemap = require('./generatemap');
 
+const FILENAME = 'testroom'
+
 {
 	console.info('#'.repeat(34));
 	console.info('Half Life 2 =TO=> DooM 3 Converter');
@@ -10,7 +12,7 @@ const generatemap = require('./generatemap');
 
 	try {
 		console.log("Converting VMF -> JSON...");
-		vmf2json();
+		vmf2json(FILENAME);
 
 		console.log("Convert successful!")
 	} catch (e) {
@@ -21,7 +23,7 @@ const generatemap = require('./generatemap');
 
 	try {
 		console.log("Generating DooM 3 .map file...");
-		generatemap();
+		generatemap(FILENAME);
 
 		console.log("Generate successful!")
 	} catch (e) {
