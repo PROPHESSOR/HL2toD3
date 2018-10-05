@@ -6,6 +6,7 @@
  */
 
 const fs = require('fs');
+const ENTITIES = require('./convertentities');
 
 /** Парсит плейн на вектора
  * @param  {string} plane
@@ -36,6 +37,10 @@ function hardcodePlayerStart() {
 }`
 }
 
+function toMAP(object) {
+    return JSON.stringify(object, null, 4).replace(/[:,]/g, '');
+}
+
 module.exports = (json, FILENAME) => {
     let out = '';
 
@@ -51,7 +56,7 @@ module.exports = (json, FILENAME) => {
         for (const side of solid.side) {
             const [vec1, vec2, vec3] = parsePlane(side.plane);
 
-            out += `\t\t( ${vec1.join(' ')} ) ( ${vec2.join(' ')} ) ( ${vec3.join(' ')} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "base_wall/lfwall27d" 0 0 0\n`;
+            out += `\t\t( ${vec1.join(' ')} ) ( ${vec2.join(' ')} ) ( ${vec3.join(' ')} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/base_wall/lfwall27d" 0 0 0\n`;
         }
         out += `\t}\n`;
         out += '}\n';
@@ -59,7 +64,13 @@ module.exports = (json, FILENAME) => {
     out += '}\n';
     
 
-    out += hardcodePlayerStart();
+    for(const entity of json.entity) {
+        if(!ENTITIES[entity.classname]) continue;
+
+        out += `\n// entity ${entity.id}\n`;
+        out += toMAP(ENTITIES[entity.classname](entity));
+        out += '\n';
+    }
 
     fs.writeFileSync(`${FILENAME}.map`, out, 'utf8');
 }
