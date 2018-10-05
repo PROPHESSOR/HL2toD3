@@ -61,6 +61,24 @@ module.exports = (json, FILENAME) => {
         out += `\t}\n`;
         out += '}\n';
     }
+
+    for(const entity of json.entity) {
+        if(entity.classname !== 'func_detail') continue;
+        if(!(entity.solid instanceof Array)) continue;
+
+        for (const solid of entity.solid) {
+            out += `// primitive ${entity.id}_${solid.id}\n`;
+            out += `{\n`;
+            out += `\tbrushDefByHL2toD3\n\t{\n`;
+            for (const side of solid.side) {
+                const [vec1, vec2, vec3] = parsePlane(side.plane);
+    
+                out += `\t\t( ${vec1.join(' ')} ) ( ${vec2.join(' ')} ) ( ${vec3.join(' ')} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/base_wall/lfwall27d" 0 0 0\n`;
+            }
+            out += `\t}\n`;
+            out += '}\n';
+        }
+    }
     out += '}\n';
     
 
