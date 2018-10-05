@@ -1,87 +1,11 @@
+/**
+ * Copyright (c) 2018 PROPHESSOR
+ * 
+ * This software is released under the MIT License.
+ * https://opensource.org/licenses/MIT
+ */
+
 const fs = require('fs');
-
-class Vec3 {
-    constructor(x, y, z) {
-        this.x = x;
-        this.y = y;
-        this.z = z;
-    }
-
-    normalize() {
-        const [x, y, z] = this;
-        const {length} = this;
-
-        if(!length) return this;
-
-        return new Vec3(x / length, y / length, z / length);
-    }
-
-    selfnormalize() {
-        this.x = this.x / this.length;
-        this.y = this.y / this.length;
-        this.z = this.z / this.length;
-    }
-
-    get length() {
-        const [x, y, z] = this;
-        return Math.sqrt(x ** 2 + y ** 2 + z ** 2);
-    }
-
-    *[Symbol.iterator]() {
-        yield this.x;
-        yield this.y;
-        yield this.z;
-    }
-
-    static from(value) {
-        if(value instanceof Array) {
-            return new Vec3(...value);
-        } else {
-            console.error('I can\'t parse Vec3 from this value!');
-            return new Vec3(0, 0, 0);
-        }
-    }
-}
-
-/** Преобразовывает плоскость, заданную по 3-м точкам в уравнение этой плоскости
- * @param  {Vec3} vec1 - 1 точка
- * @param  {Vec3} vec2 - 2 точка
- * @param  {Vec3} vec3 - 3 точка
- * @returns {Array} [A, B, C, D]
- */
-function convertVec3ToPlaneEquation(vec1, vec2, vec3) {
-    const [x1, y1, z1] = vec1;
-    const [x2, y2, z2] = vec2;
-    const [x3, y3, z3] = vec3;
-
-    /*
-        = ((x - x1)  * (y2 - y1) * (z3 - z2)) + ((y - y1)  * (z2 - z1) * (x3 - x2)) + ((z - z1)  * (x2 - x1) * (y3 - y2))
-        - ((x3 - x2) * (y2 - y1) * (z - z1))  - ((y3 - y2) * (z2 - z1) * (x - x1))  - ((z3 - z2) * (x2 - x1) * (y - y1))
-    */
-
-    const A =  y1 * (z2 - z3) + y2 * (z3 - z1) + y3 * (z1 - z2);
-    const B =  z1 * (x2 - x3) + z2 * (x3 - x1) + z3 * (x1 - x2);
-    const C =  x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2);
-
-    const D =-(x1 * (y2 * z3 - y3 * z2) + x2 * (y3 * z1 - y1 * z3) + x3 * (y1 * z2 - y2 * z1));
-
-    return [A, B, C, D];
-}
-
-/** Рассчитывает растояние (нормали) от 0 до плоскости
- * @param  {array} equation - Вывод функции convertVec3ToPlaneEquation
- * @returns {number} - Растояние
- */
-function calculateLengthNormalToPlane(equation) {
-    const [A, B, C, D] = equation;
-    const normal = (new Vec3(A, B, C)).normalize();
-    // console.log(`equation: `, A, B, C, D);
-    // console.log(`normal: `, ...normal);
-    // console.log(`length: `, normal.length);
-    return D
-        /
-        normal.length;
-}
 
 /** Парсит плейн на вектора
  * @param  {string} plane
@@ -89,7 +13,7 @@ function calculateLengthNormalToPlane(equation) {
  */
 function parsePlane(plane) {
     const json = '[' + plane
-        .replace(/\s/g, ', ')
+        .replace(/\s+/g, ', ')
         .replace(/\(/g, '[')
         .replace(/\)/g, ']')
         + ']';
@@ -97,6 +21,7 @@ function parsePlane(plane) {
     try {
         return JSON.parse(json);
     } catch(e) {
+        console.warn(`Can't parse plane! ${plane}`);
         return [[0, 0, 0], [0, 0, 0], [0, 0, 0]];
     }
 }
@@ -111,18 +36,7 @@ function hardcodePlayerStart() {
 }`
 }
 
-/** Returns spaced number
- * @param  {} num
- * @returns {string}
- */
-function smartOffset(num) {
-    return num < 0 ? `${num}` : ` ${num}`;
-}
-
-module.exports = (FILENAME) => {
-    debugger;
-    const json = require(`./${FILENAME}.json`);
-
+module.exports = (json, FILENAME) => {
     let out = '';
 
     out += 'Version 2\n';
@@ -130,21 +44,13 @@ module.exports = (FILENAME) => {
     out += '{\n';
     out += '"classname" "worldspawn"\n';
 
-    for (const solid of json.array) {
+    for (const solid of json.world.solid) {
         out += `// primitive ${solid.id}\n`;
         out += `{\n`;
         out += `\tbrushDefByHL2toD3\n\t{\n`;
-        for (const side of solid.array) {
+        for (const side of solid.side) {
             const [vec1, vec2, vec3] = parsePlane(side.plane);
-            // vec1.x += 2000;
-            // vec2.x += 2000;
-            // vec3.x += 2000;
-            // const equation = convertVec3ToPlaneEquation(vec1, vec2, vec3);
-            // const length = calculateLengthNormalToPlane(equation);
-            // const length1 = -Math.sqrt(equation[0]**2 + equation[1]**2 + equation[2]**2);
-            // const normal = (new Vec3(...equation)).normalize();
-            // const output = `${normal.x} ${normal.y} ${normal.z} ${length1}`; // (normal.x normal.y normal.z length)
-debugger;
+
             out += `\t\t( ${vec1.join(' ')} ) ( ${vec2.join(' ')} ) ( ${vec3.join(' ')} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "base_wall/lfwall27d" 0 0 0\n`;
         }
         out += `\t}\n`;
@@ -154,8 +60,6 @@ debugger;
     
 
     out += hardcodePlayerStart();
-
-    // console.log(out);
 
     fs.writeFileSync(`${FILENAME}.map`, out, 'utf8');
 }

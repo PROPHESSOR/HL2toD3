@@ -1,4 +1,7 @@
 # Test HL2 maps
 /testdata
 #/*.vmf
-/*.json
+*.json
+*.map
+*.vmf
+node_modules
