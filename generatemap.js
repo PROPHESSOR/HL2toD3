@@ -106,9 +106,17 @@ function hardcodePlayerStart() {
 {
     "classname" "info_player_start"
     "name" "info_player_start_1"
-    "origin" "-3088 -3584 448"
+    "origin" "-2176 88 80"
     "angle" "180"
 }`
+}
+
+/** Returns spaced number
+ * @param  {} num
+ * @returns {string}
+ */
+function smartOffset(num) {
+    return num < 0 ? `${num}` : ` ${num}`;
 }
 
 module.exports = (FILENAME) => {
@@ -125,19 +133,19 @@ module.exports = (FILENAME) => {
     for (const solid of json.array) {
         out += `// primitive ${solid.id}\n`;
         out += `{\n`;
-        out += `\tbrushDef3\n\t{\n`;
+        out += `\tbrushDefByHL2toD3\n\t{\n`;
         for (const side of solid.array) {
             const [vec1, vec2, vec3] = parsePlane(side.plane);
             // vec1.x += 2000;
             // vec2.x += 2000;
             // vec3.x += 2000;
-            const equation = convertVec3ToPlaneEquation(vec1, vec2, vec3);
-            const length = calculateLengthNormalToPlane(equation);
-            const length1 = -Math.sqrt(equation[0]**2 + equation[1]**2 + equation[2]**2);
-            const normal = (new Vec3(...equation)).normalize();
-            const output = `${normal.x} ${normal.y} ${normal.z} ${length1}`; // (normal.x normal.y normal.z length)
-
-            out += `\t\t( ${output} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/base_wall/lfwall27d" 0 0 0\n`;
+            // const equation = convertVec3ToPlaneEquation(vec1, vec2, vec3);
+            // const length = calculateLengthNormalToPlane(equation);
+            // const length1 = -Math.sqrt(equation[0]**2 + equation[1]**2 + equation[2]**2);
+            // const normal = (new Vec3(...equation)).normalize();
+            // const output = `${normal.x} ${normal.y} ${normal.z} ${length1}`; // (normal.x normal.y normal.z length)
+debugger;
+            out += `\t\t( ${vec1.join(' ')} ) ( ${vec2.join(' ')} ) ( ${vec3.join(' ')} ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "base_wall/lfwall27d" 0 0 0\n`;
         }
         out += `\t}\n`;
         out += '}\n';
