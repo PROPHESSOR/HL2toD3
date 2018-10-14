@@ -6,7 +6,7 @@
  */
 
 const fs = require('fs');
-const ENTITIES = require('./convertentities');
+const convertEntities = require('./convertentities');
 const patchTextures = require('./texturepatcher');
 
 /** Парсит плейн на вектора
@@ -112,10 +112,11 @@ module.exports = (json, FILENAME) => {
 
 
     for (const entity of json.entity) {
-        if (!ENTITIES[entity.classname]) continue;
+        const tmp = convertEntities(entity);
+        if(!tmp) continue;
 
         out += `\n// entity ${entity.id}\n`;
-        out += toMAP(ENTITIES[entity.classname](entity));
+        out += toMAP(tmp);
         out += '\n';
     }
 

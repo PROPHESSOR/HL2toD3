@@ -8815,598 +8815,898 @@ Version 2
 {
     "classname" "light"
     "origin" "-2877 -3189 69"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5881"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5882
 {
     "classname" "light"
     "origin" "-2667 -2791 69"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5882"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5883
 {
     "classname" "light"
     "origin" "-2514 -1961 69"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5883"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5884
 {
     "classname" "light"
     "origin" "-2763 -2028 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5884"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5885
 {
     "classname" "light"
     "origin" "-2790 -988 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5885"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5886
 {
     "classname" "light"
     "origin" "-2008 -1330 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5886"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5887
 {
     "classname" "light"
     "origin" "-2042 -833 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5887"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5888
 {
     "classname" "light"
     "origin" "-1664 -840 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5888"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5889
 {
     "classname" "light"
     "origin" "-1931 -1058 69"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5889"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5890
 {
     "classname" "light"
     "origin" "-1696 -1350 69"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5890"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5891
 {
     "classname" "light"
     "origin" "-1228 -1534 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5891"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5892
 {
     "classname" "light"
     "origin" "-1630 -2170 69"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5892"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5893
 {
     "classname" "light"
     "origin" "-1344 -2176 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5893"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5894
 {
     "classname" "light"
     "origin" "-1012 -1782 69"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5894"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5895
 {
     "classname" "light"
     "origin" "-1375 -1802 50"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5895"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5896
 {
     "classname" "light"
     "origin" "-3063 -2704 450"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5896"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5897
 {
     "classname" "light"
     "origin" "-3045 -2098 105"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5897"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5898
 {
     "classname" "light"
     "origin" "-2648 -2977 62"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5898"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5899
 {
     "classname" "light"
     "origin" "-2056 -744 240"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5899"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5900
 {
     "classname" "light"
     "origin" "-2087 -2903 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5900"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5901
 {
     "classname" "light"
     "origin" "-1699 -1006 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5901"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5902
 {
     "classname" "light"
     "origin" "-2784 -3776 395"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5902"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5903
 {
     "classname" "light"
     "origin" "-2768 -3280 436"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5903"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5904
 {
     "classname" "light"
     "origin" "-640 -1512 346"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5904"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5905
 {
     "classname" "light"
     "origin" "-1056 -1432 346"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5905"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5906
 {
     "classname" "light"
     "origin" "-1376 -1208 329"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5906"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5907
 {
     "classname" "light"
     "origin" "-1737 -585 376"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5907"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5908
 {
     "classname" "light"
     "origin" "-1980 -376 256"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5908"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5909
 {
     "classname" "light"
     "origin" "-2240 -824 317"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5909"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5910
 {
     "classname" "light"
     "origin" "-2432 -809 240"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5910"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5911
 {
     "classname" "light"
     "origin" "-2625 -651 64"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5911"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5912
 {
     "classname" "light"
     "origin" "-2876 -825 313"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5912"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5913
 {
     "classname" "light"
     "origin" "-3104 -2048 532"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5913"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5914
 {
     "classname" "light"
     "origin" "-2880 -3424 339"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5914"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5915
 {
     "classname" "light"
     "origin" "-1336 -3464 339"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5915"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5916
 {
     "classname" "light"
     "origin" "-1472 -3472 576"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5916"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5917
 {
     "classname" "light"
     "origin" "-763 -2135 440"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5917"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5918
 {
     "classname" "light"
     "origin" "-1279 -2211 434"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5918"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5919
 {
     "classname" "light"
     "origin" "-1548 -2700 254"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5919"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5920
 {
     "classname" "light"
     "origin" "-2111 -2887 374"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5920"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5921
 {
     "classname" "light"
     "origin" "-2656 -2976 404"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5921"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5922
 {
     "classname" "light"
     "origin" "-1562 -2713 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5922"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5923
 {
     "classname" "light"
     "origin" "-2070 -2800 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5923"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5924
 {
     "classname" "light"
     "origin" "-2170 -2494 69"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5924"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5925
 {
     "classname" "light"
     "origin" "-2195 -745 115"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5925"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5926
 {
     "classname" "light"
     "origin" "-1609 -121 369"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5926"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5927
 {
     "classname" "light"
     "origin" "-1623 -821 384"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5927"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5928
 {
     "classname" "light"
     "origin" "-2621 -713 279"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5928"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5929
 {
     "classname" "light"
     "origin" "-2443 -761 124"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5929"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5930
 {
     "classname" "light"
     "origin" "-1862 -409 72"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5930"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5931
 {
     "classname" "light"
     "origin" "-793 -2017 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5931"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5932
 {
     "classname" "light"
     "origin" "-954 -2008 125"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5932"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5933
 {
     "classname" "light"
     "origin" "-1859 -569 130"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5933"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5934
 {
     "classname" "light"
     "origin" "-3063 -3705 330"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5934"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5935
 {
     "classname" "light"
     "origin" "-3047 -3872 327"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5935"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5936
 {
     "classname" "light"
     "origin" "-2875 -3702 53"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5936"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5937
 {
     "classname" "light"
     "origin" "-1880 -1792 265"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5937"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5938
 {
     "classname" "light"
     "origin" "-1462 -2306 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5938"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5939
 {
     "classname" "light"
     "origin" "-1485 -1236 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5939"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }
 
 // entity 5940
 {
     "classname" "light"
     "origin" "-2392 -2746 73"
-    "_color" "0.8 0.9 1.0"
+    "_color" "0.6 0.36 0.27"
     "name" "env_cubemap_5940"
-    "lightradius" "100 100 100"
-    "lightcenter" "0 0 0"
+    "lightradius" "1200 1200 1200"
+    "lightcenter" "-48 -592 416"
+    "noshadows" "0"
+    "nospecular" "0"
+    "nodiffuse" "0"
+    "falloff" "0"
+    "texture" "lights/squarelight1sky"
 }

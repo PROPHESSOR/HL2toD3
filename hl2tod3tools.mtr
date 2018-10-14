@@ -5,12 +5,12 @@ textures/tools/toolsskybox {
     forceOpaque
     
     {
-        blend			add	
-        cameraCubeMap	env/cloudy //desert
-        texgen			skybox
-        red				.75//Parm0 * xray02table[ time * .1 ]
-        green			.75//Parm1 * xray02table[ time * .1 ]
-        blue			.75//Parm2 * xray02table[ time * .1 ]
+        blend			add
+        cameraCubeMap	env/cloudy
+        texgen			skybox // wobblesky 10 0.1 0.1
+        red				.75 // Parm0 * xray02table[ time * .1 ]
+        green			.75 // Parm1 * xray02table[ time * .1 ]
+        blue			.75 // Parm2 * xray02table[ time * .1 ]
     }
 }
 

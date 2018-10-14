@@ -5,7 +5,7 @@
  * https://opensource.org/licenses/MIT
  */
 
-module.exports = {
+const dictionary =  {
     'light'(data) {
         return {
             classname: data.classname,
@@ -28,10 +28,15 @@ module.exports = {
         return {
             classname: 'light',
             origin: data.origin,
-            _color: '0.8 0.9 1.0',
+            _color: '0.6 0.36 0.27',
             name: `${data.classname}_${data.id}`,
-            lightradius: '100 100 100',
-            lightcenter: '0 0 0'
+            lightradius: '1200 1200 1200',
+            lightcenter: '-48 -592 416',
+            noshadows: "0",
+            nospecular: "0",
+            nodiffuse: "0",
+            falloff: "0",
+            texture: "lights/squarelight1sky"
         }
     },
     'info_lighting'(data) {
@@ -44,4 +49,10 @@ module.exports = {
             lightcenter: '0 0 0'
         }
     }
+};
+
+module.exports = (entity, context) => {
+    if(!dictionary[entity.classname]) return false;
+
+    return dictionary[entity.classname](entity);
 }
