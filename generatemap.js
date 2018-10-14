@@ -52,6 +52,7 @@ function generateMaterial(textures) {
 
     for(const _texture of textures) {
         if(!_texture) continue;
+        if(/tools/.test(_texture)) continue;
         const texture = `textures/${_texture}`;
         material +=
 `${texture} {

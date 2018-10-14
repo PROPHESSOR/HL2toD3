@@ -1,0 +1,48 @@
+textures/tools/toolsskybox {
+    noFragment
+    noshadows
+    noimpact
+    forceOpaque
+    
+    {
+        blend			add	
+        cameraCubeMap	env/cloudy //desert
+        texgen			skybox
+        red				.75//Parm0 * xray02table[ time * .1 ]
+        green			.75//Parm1 * xray02table[ time * .1 ]
+        blue			.75//Parm2 * xray02table[ time * .1 ]
+    }
+}
+
+textures/tools/toolsnodraw {
+    qer_editorimage textures/common/nodraw.tga
+    nonsolid
+    noshadows
+    {
+            //even though this draws nothing, i have to do it to get teh particles to emit.
+        blend	filter
+        map		_white
+    }
+}
+
+textures/tools/toolsskip {
+    qer_editorimage textures/common/nodraw.tga
+    nonsolid
+    noshadows
+    {
+            //even though this draws nothing, i have to do it to get teh particles to emit.
+        blend	filter
+        map		_white
+    }
+}
+
+textures/tools/toolstrigger {
+    qer_editorimage textures/common/nodraw.tga
+    nonsolid
+    noshadows
+    {
+            //even though this draws nothing, i have to do it to get teh particles to emit.
+        blend	filter
+        map		_white
+    }
+}
